@@ -5,6 +5,7 @@ import random
 import requests
 import json
 import praw
+import eightBallRes
 
 
 from discord.ext import commands
@@ -44,5 +45,11 @@ async def redd(ctx, *, sub):
 @client.command()
 async def ping(ctx):
   await ctx.send("Ping: " + str(round(client.latency * 1000)) + "ms")
+
+#this command will allow the user to ask a question and get a random response, simulating a magic 8 ball. ex: !8ball Will I ever become a python dev?
+@client.command(name="8ball")
+async def _8ball(ctx, *, question):
+  result = random.choice(eightBallRes.responses)
+  await ctx.send("Question: " + question + "\nAnswer: " + result)
 
 client.run(token) 
