@@ -7,7 +7,7 @@ import praw
 
 from discord.ext import commands
 
-client = commands.Bot(command_prefix="!", activity=discord.Activity(type=discord.ActivityType.watching, name="SmellMyThongs.com"))
+client = commands.Bot(command_prefix="!", activity=discord.Activity(type=discord.ActivityType.watching, name="Breaking Bad"))
 
 token = os.environ['token']
 redd_client_id = os.environ['redd_client_id']
