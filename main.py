@@ -55,4 +55,12 @@ async def _8ball(ctx, *, question):
   result = random.choice(eightBallRes.responses)
   await ctx.send("Question: " + question + "\nAnswer: " + result)
 
+#this command will be my first attempt at a "web scrape". will grab and store the html found on olympus-entertainment.com. no paramaters for this command, as all I want it to do for now is just pull the html from a static source, I may include a print function just to see how it goes. *printing did not work because the ch limit on a discord message seems to be 4000. I'm gonna work on updating this to fill a google sheet with only certain info. ex: !soup
+@client.command()
+async def soup(ctx):
+  req = requests.get('https://olympus-entertainment.com')
+  soup_content = bs(req.content,'html.parser')
+  #await ctx.send(soup_content)
+
+
 client.run(token) 
