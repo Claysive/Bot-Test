@@ -1,3 +1,5 @@
+#list containing all the responses that can be pulled from the !8ball command. responses are pulled at random using 'random.choice'
+
 responses = [
 	    "It is certain", "It is decidedly so", "Without a doubt",
 	    "Yes, definitely", "You may rely on it", "As I see it, yes",
