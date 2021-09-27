@@ -6,7 +6,6 @@ import discord
 import os
 import random
 import requests
-import json
 import praw
 import eightBallRes
 
@@ -21,7 +20,7 @@ token = os.environ['token']
 redd_client_id = os.environ['redd_client_id']
 redd_client_secret = os.environ['redd_client_secret']
 
-#intalize the reddit api 
+#initialize the reddit api 
 reddit = praw.Reddit(client_id=redd_client_id,
                      client_secret=redd_client_secret,
                      password='Python2800!',
@@ -60,7 +59,8 @@ async def _8ball(ctx, *, question):
 async def soup(ctx):
   req = requests.get('https://olympus-entertainment.com')
   soup_content = bs(req.content,'html.parser')
-  #await ctx.send(soup_content)
+  header3 = soup_content.find('h3')
+  await ctx.send(header3)
 
 
 client.run(token) 
