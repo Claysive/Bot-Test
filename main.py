@@ -29,7 +29,7 @@ reddit = praw.Reddit(client_id=redd_client_id,
 async def on_ready():
   print("Test Bot has come online")
 
-#this command will allow the user to grab a random post from a subreddit of their choice. the subreddit is passed as an argurment
+#this command will allow the user to grab a random post from a subreddit of their choice. the subreddit is passed as an argurment. ex: !redd funny
 @client.command()
 async def redd(ctx, *, sub):
 	post = reddit.subreddit(sub).hot()
@@ -40,7 +40,7 @@ async def redd(ctx, *, sub):
 	await ctx.send("Found this for you!")
 	await ctx.send(submission.url)
 
-#this command will check the users ping and print it 
+#this command will check the users ping and print it. ex: !ping 
 @client.command()
 async def ping(ctx):
   await ctx.send("Ping: " + str(round(client.latency * 1000)) + "ms")
