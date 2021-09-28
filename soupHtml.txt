@@ -1,0 +1,2629 @@
+<!DOCTYPE html>
+<html class="tee" dir="ltr" lang="en-US"><head><meta charset="utf-8"/>
+<title>Forums - Olympus Entertainment</title>
+<style id="colorTheme" type="text/css"></style>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-151169585-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151169585-1');
+</script>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="summary" name="twitter:card">
+<meta content="@OlympusServer" name="twitter:site">
+<meta content="Olympus Entertainment" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://olympus-entertainment.com" property="og:url"/>
+<meta content="Olympus Entertainment" property="og:site_name"/>
+<meta content="en_US" property="og:locale"/>
+<link href="https://olympus-entertainment.com" rel="canonical"/>
+<link href="https://olympus-entertainment.com/manifest.webmanifest/" rel="manifest"/>
+<meta content="https://olympus-entertainment.com/browserconfig.xml/" name="msapplication-config"/>
+<meta content="/" name="msapplication-starturl"/>
+<meta content="Olympus Entertainment" name="application-name"/>
+<meta content="Olympus Entertainment" name="apple-mobile-web-app-title"/>
+<meta content="#1e1e1e" name="theme-color"/>
+<link as="font" crossorigin="anonymous" href="//olympus-entertainment.com/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" rel="preload"/>
+<link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,300i,400,400i,500,700,700i" referrerpolicy="origin" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/341e4a57816af3ba440d891ca87450ff_framework.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/05e81b71abe4f22d6eb8d1a929494829_responsive.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/49304d8f4a7c643ec673e5da910a1a13_widget.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/79bfb05544daeca4ec6d8979c07ae88e_button.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/90eb5adf50a8c640f633d47fd7eb1778_core.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/62e269ced0fdab7e30e026f1d30ae516_forums.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/76e62c573090645fb99a15a363d8620e_forums_responsive.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/6c1c20019a1f9e0bdc4fad80b9b2cdf1_widget.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/1a32af9a7afc7cfc7749f33d2c2f5c1c_subscriptions.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/51a672ecd6862df2c2f1969522683ee9_calendar.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/css_built_39/258adbb6e4f3e83cd3b355f84e3fa002_custom.css?v=e313ada8d31631367636" media="all" rel="stylesheet"/>
+<link href="https://olympus-entertainment.com/uploads/monthly_2019_09/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link as="font" crossorigin="anonymous" href="https://olympus-entertainment.com/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" rel="preload" type="font/woff2"/>
+<link href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" rel="stylesheet"/>
+<link href="https://use.fontawesome.com/releases/v5.15.3/css/v4-shims.css" rel="stylesheet"/>
+<style>
+			
+				.aXenPicture #ipsLayout_header header {  
+					
+					
+					background-image: url(https://olympus-entertainment.com/uploads/set_resources_39/84c1e40ea0e759e3f1505eb1788ddf3c_pattern.png);
+					background-size: cover;
+    				background-position: center;
+    				background-repeat: no-repeat;
+				} 
+				
+  
+				
+					.cForumList .ipsDataItem_unread .ipsDataItem_title::before, .cForumGrid_unread .ipsPhotoPanel h3 a::before {
+  						content: "New";
+  						color: #fff;
+    					background: #c72e2e;
+    					font-size: 12px;
+    					vertical-align: middle;
+    					padding: 0 12px;
+    					margin: 0 2px 0 2px;
+    					display: inline-block;
+    					border-radius: var(--box--radius);
+					}
+				
+			</style>
+<link href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" rel="stylesheet"/>
+<link href="https://use.fontawesome.com/releases/v5.15.3/css/v4-shims.css" rel="stylesheet"/></meta></meta></head><body class="ipsApp ipsApp_front ipsJS_none ipsClearfix" data-controller="core.front.core.app" data-message="" data-pageapp="forums" data-pagecontroller="index" data-pagelocation="front" data-pagemodule="forums"><a accesskey="m" class="ipsHide" href="#ipsLayout_mainArea" title="Go to main content on this page">Jump to content</a>
+<div class="aXenTopBar ipsResponsive_showDesktop">
+<div class="ipsLayout_container ipsFlex ipsFlex-jc:between ipsFlex-ai:center">
+<div class="aXenTopBar_action">
+<ul class="ipsList_inline">
+<li><a data-ipstooltip="" href="https://olympus-entertainment.com/" title="Home"><i class="fas fa-home"></i></a></li>
+</ul>
+</div>
+<div class="aXenTopBar_userNav">
+<ul class="ipsList_inline cSignedOut ipsResponsive_showDesktop" id="elUserNav">
+<li class="cUserNav_icon ipsHide" id="elCart_container"></li>
+<li class="elUserNav_sep ipsHide" id="elCart_sep"></li>
+<li id="elSignInLink">
+<a data-ipsmenu="" data-ipsmenu-closeonclick="false" href="https://olympus-entertainment.com/login/" id="elUserSignIn">
+Existing user? Sign In  <i class="fa fa-caret-down"></i>
+</a>
+<div class="ipsMenu ipsMenu_auto ipsHide" id="elUserSignIn_menu">
+<form accept-charset="utf-8" action="https://olympus-entertainment.com/login/" method="post">
+<input name="csrfKey" type="hidden" value="d7631190a4581f5ab3681799e39b05df"/>
+<input name="ref" type="hidden" value="aHR0cHM6Ly9vbHltcHVzLWVudGVydGFpbm1lbnQuY29tLw=="/>
+<div data-role="loginForm">
+<div class="ipsColumns ipsColumns_noSpacing">
+<div class="ipsColumn ipsColumn_wide" id="elUserSignIn_internal">
+<div class="ipsPad ipsForm ipsForm_vertical">
+<h4 class="ipsType_sectionHead">Sign In</h4>
+<br/><br/>
+<ul class="ipsList_reset">
+<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+<input autocomplete="email" name="auth" placeholder="Email Address" type="email"/>
+</li>
+<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+<input autocomplete="current-password" name="password" placeholder="Password" type="password"/>
+</li>
+<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+<span class="ipsCustomInput">
+<input aria-checked="true" checked="" id="remember_me_checkbox" name="remember_me" type="checkbox" value="1"/>
+<span></span>
+</span>
+<div class="ipsFieldRow_content">
+<label class="ipsFieldRow_label" for="remember_me_checkbox">Remember me</label>
+<span class="ipsFieldRow_desc">Not recommended on shared computers</span>
+</div>
+</li>
+<li class="ipsFieldRow ipsFieldRow_fullWidth">
+<button class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit" name="_processLogin" type="submit" value="usernamepassword">Sign In</button>
+<p class="ipsType_right ipsType_small">
+<a data-ipsdialog="" data-ipsdialog-title="Forgot your password?" href="https://olympus-entertainment.com/lostpassword/">
+Forgot your password?</a>
+</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="ipsColumn ipsColumn_wide">
+<div class="ipsPadding" id="elUserSignIn_external">
+<div class="ipsAreaBackground_light ipsPadding:half">
+<p class="ipsType_reset ipsType_small ipsType_center"><strong>Or sign in with one of these services</strong></p>
+<div class="ipsType_center ipsMargin_top:half">
+<button class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial" name="_processLogin" style="background-color: #6034b1" type="submit" value="10">
+<span class="ipsSocial_icon">
+<i class="fa fa-fab fa-twitch"></i>
+</span>
+<span class="ipsSocial_text">Sign in with Twitch</span>
+</button>
+</div>
+<div class="ipsType_center ipsMargin_top:half">
+<button class="ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial" name="_processLogin" style="background-color: #171a21" type="submit" value="11">
+<span class="ipsSocial_icon">
+<i class="fa fa-steam"></i>
+</span>
+<span class="ipsSocial_text">Sign In With Steam</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</li>
+<li>
+<a class="ipsButton ipsButton_normal ipsButton_primary" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" href="https://olympus-entertainment.com/register/" id="elRegisterButton">Sign Up</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ipsClearfix" id="ipsLayout_header">
+<ul class="ipsResponsive_hideDesktop" data-controller="core.front.core.mobileNav" id="elMobileNav">
+<li class="ipsHide">
+<a data-action="defaultStream" href="https://olympus-entertainment.com/discover/"><i aria-hidden="true" class="fa fa-newspaper-o"></i></a>
+</li>
+<li class="ipsJS_show">
+<a href="https://olympus-entertainment.com/search/"><i class="fa fa-search"></i></a>
+</li>
+<li data-ipsdrawer="" data-ipsdrawer-drawerelem="#elMobileDrawer">
+<a href="#">
+<i class="fa fa-navicon"></i>
+</a>
+</li>
+</ul>
+<header><div class="aXenSnow"></div>
+<div class="ipsLayout_container">
+<a accesskey="1" href="https://olympus-entertainment.com/" id="elLogo"><img alt="Olympus Entertainment" src="https://olympus-entertainment.com/uploads/monthly_2021_03/imageproxy.png.7245bb8cf3910eddae58b681c3dafe16.png.e5afe89701223834a58449debc0098ed.png"/></a>
+</div>
+</header>
+<nav class="ipsNavBar_noSubBars ipsResponsive_showDesktop" data-controller="core.front.core.navBar">
+<div class="ipsNavBar_primary ipsLayout_container ipsNavBar_noSubBars">
+<ul class="ipsClearfix" data-role="primaryNavBar">
+<li class="ipsNavBar_active" data-active="" data-navapp="forums" data-navext="Forums" data-role="navBarItem" id="elNavSecondary_7">
+<a data-navdefault="" data-navitem-id="7" href="https://olympus-entertainment.com">
+Forums<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="nexus" data-navext="Support" data-role="navBarItem" id="elNavSecondary_28">
+<a data-navitem-id="28" href="https://olympus-entertainment.com/support/">
+Support<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="CustomItem" data-role="navBarItem" id="elNavSecondary_59">
+<a data-navitem-id="59" href="https://olympus-entertainment.com/donate/">
+Donations<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="nexus" data-navext="Store" data-role="navBarItem" id="elNavSecondary_63">
+<a data-navitem-id="63" href="https://olympus-entertainment.com/store/">
+Store<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="cms" data-navext="Pages" data-role="navBarItem" id="elNavSecondary_58">
+<a data-navitem-id="58" href="https://olympus-entertainment.com/olympus-policy/">
+Olympus Policy<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="CustomItem" data-role="navBarItem" id="elNavSecondary_62">
+<a data-navitem-id="62" href="https://lc2.olympus-entertainment.com/stats/top/" rel="noopener" target="_blank">
+Olympus Stats V2<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="CustomItem" data-role="navBarItem" id="elNavSecondary_64">
+<a data-navitem-id="64" href="https://wiki.olympus-entertainment.com/" rel="noopener" target="_blank">
+Wiki<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="StaffDirectory" data-role="navBarItem" id="elNavSecondary_12">
+<a data-navitem-id="12" href="https://olympus-entertainment.com/staff/">
+Staff<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="cms" data-navext="Pages" data-role="navBarItem" id="elNavSecondary_56">
+<a data-navitem-id="56" href="https://olympus-entertainment.com/servers/">
+Servers<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="nexus" data-navext="Subscriptions" data-role="navBarItem" id="elNavSecondary_67">
+<a data-navitem-id="67" href="https://olympus-entertainment.com/subscriptions/">
+Subscriptions<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="advancedgiftcards" data-navext="advancedgiftcards" data-role="navBarItem" id="elNavSecondary_68">
+<a data-navitem-id="68" href="https://olympus-entertainment.com/store/gift-cards/?do=advancedGiftCards">
+Gift Cards<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="calendar" data-navext="Calendar" data-role="navBarItem" id="elNavSecondary_61">
+<a data-navitem-id="61" href="https://olympus-entertainment.com/calendar/">
+Calendar<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="blog" data-navext="Blogs" data-role="navBarItem" id="elNavSecondary_8">
+<a data-navitem-id="8" href="https://olympus-entertainment.com/blogs/">
+Blogs<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="AllActivity" data-role="navBarItem" id="elNavSecondary_14">
+<a data-navitem-id="14" href="https://olympus-entertainment.com/discover/">
+All Activity<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="YourActivityStreams" data-role="navBarItem" id="elNavSecondary_15">
+<a data-navitem-id="15" href="#">
+My Activity Streams<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="cms" data-navext="Pages" data-role="navBarItem" id="elNavSecondary_60">
+<a data-navitem-id="60" href="https://olympus-entertainment.com/allstatuses/">
+All Status Updates<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="YourActivityStreamsItem" data-role="navBarItem" id="elNavSecondary_17">
+<a data-navitem-id="17" href="https://olympus-entertainment.com/discover/content-started/">
+Content I Started<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="YourActivityStreamsItem" data-role="navBarItem" id="elNavSecondary_16">
+<a data-navitem-id="16" href="https://olympus-entertainment.com/discover/unread/">
+Unread Content<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li data-navapp="core" data-navext="OnlineUsers" data-role="navBarItem" id="elNavSecondary_13">
+<a data-navitem-id="13" href="https://olympus-entertainment.com/online/">
+Online Users<span class="ipsNavBar_active__identifier"></span>
+</a>
+</li>
+<li class="ipsHide" data-role="navMore" id="elNavigationMore">
+<a data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore" href="#" id="elNavigationMore_dropdown">More</a>
+<ul class="ipsNavBar_secondary ipsHide" data-role="secondaryNavBar">
+<li class="ipsHide" data-role="navMore" id="elNavigationMore_more">
+<a data-ipsmenu="" data-ipsmenu-appendto="#elNavigationMore_more" href="#" id="elNavigationMore_more_dropdown">More <i class="fa fa-caret-down"></i></a>
+<ul class="ipsHide ipsMenu ipsMenu_auto" data-role="moreDropdown" id="elNavigationMore_more_dropdown_menu"></ul>
+</li>
+</ul>
+</li>
+</ul>
+<div id="elSearchWrapper">
+<div class="" data-controller="core.front.core.quickSearch" id="elSearch">
+<form accept-charset="utf-8" action="//olympus-entertainment.com/search/?do=quicksearch" method="post">
+<input aria-label="Search" autocomplete="off" id="elSearchField" name="q" placeholder="Search..." type="search"/>
+<button aria-label="Search" class="cSearchSubmit" type="submit"><i class="fa fa-search"></i></button>
+<div id="elSearchExpanded">
+<div class="ipsMenu_title">
+Search In
+</div>
+<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small" data-ipssidemenu="" data-ipssidemenu-responsive="false" data-ipssidemenu-type="radio" data-role="searchContexts">
+<li>
+<span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all">
+<input checked="" id="elQuickSearchRadio_type_all" name="type" type="radio" value="all"/>
+<label for="elQuickSearchRadio_type_all" id="elQuickSearchRadio_type_all_label">Everywhere</label>
+</span>
+</li>
+<li>
+<span class="ipsSideMenu_item" data-ipsmenuvalue="forums_topic">
+<input id="elQuickSearchRadio_type_forums_topic" name="type" type="radio" value="forums_topic"/>
+<label for="elQuickSearchRadio_type_forums_topic" id="elQuickSearchRadio_type_forums_topic_label">Topics</label>
+</span>
+</li>
+<li data-role="showMoreSearchContexts">
+<span class="ipsSideMenu_item" data-action="showMoreSearchContexts" data-exclude="forums_topic">
+More options...
+</span>
+</li>
+</ul>
+<div class="ipsMenu_title">
+Find results that contain...
+</div>
+<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-filtertype="andOr" data-ipssidemenu="" data-ipssidemenu-responsive="false" data-ipssidemenu-type="radio" role="radiogroup">
+<li>
+<span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="or">
+<input checked="" id="elRadio_andOr_or" name="search_and_or" type="radio" value="or"/>
+<label for="elRadio_andOr_or" id="elField_andOr_label_or"><em>Any</em> of my search term words</label>
+</span>
+</li>
+<li>
+<span class="ipsSideMenu_item" data-ipsmenuvalue="and">
+<input id="elRadio_andOr_and" name="search_and_or" type="radio" value="and"/>
+<label for="elRadio_andOr_and" id="elField_andOr_label_and"><em>All</em> of my search term words</label>
+</span>
+</li>
+</ul>
+<div class="ipsMenu_title">
+Find results in...
+</div>
+<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-filtertype="searchIn" data-ipssidemenu="" data-ipssidemenu-responsive="false" data-ipssidemenu-type="radio" role="radiogroup">
+<li>
+<span class="ipsSideMenu_item ipsSideMenu_itemActive" data-ipsmenuvalue="all">
+<input checked="" id="elRadio_searchIn_and" name="search_in" type="radio" value="all"/>
+<label for="elRadio_searchIn_and" id="elField_searchIn_label_all">Content titles and body</label>
+</span>
+</li>
+<li>
+<span class="ipsSideMenu_item" data-ipsmenuvalue="titles">
+<input id="elRadio_searchIn_titles" name="search_in" type="radio" value="titles"/>
+<label for="elRadio_searchIn_titles" id="elField_searchIn_label_titles">Content titles only</label>
+</span>
+</li>
+</ul>
+</div>
+</form>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="ipsDrawer ipsHide" id="elMobileDrawer">
+<div class="ipsDrawer_menu">
+<a class="ipsDrawer_close" data-action="close" href="#"><span>×</span></a>
+<div class="ipsDrawer_content ipsFlex ipsFlex-fd:column">
+<ul class="ipsList_inline signed_in ipsClearfix" id="elUserNav_mobile">
+</ul>
+<div class="ipsPadding ipsBorder_bottom">
+<ul class="ipsToolList ipsToolList_vertical">
+<li>
+<a class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth" href="https://olympus-entertainment.com/login/" id="elSigninButton_mobile">Existing user? Sign In</a>
+</li>
+<li>
+<a class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important" data-ipsdialog="" data-ipsdialog-fixed="true" data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" href="https://olympus-entertainment.com/register/" id="elRegisterButton_mobile">Sign Up</a>
+</li>
+</ul>
+</div>
+<div class="elMobileDrawer__more ipsFlex ipsFlex-jc:center ipsFlex-ai:center ipsFlex-fw:wrap">
+<ul class="ipsList_inline signed_in ipsClearfix">
+</ul>
+</div>
+<ul class="ipsDrawer_list ipsFlex-flex:11">
+<li><a href="https://olympus-entertainment.com">Forums</a></li>
+<li><a href="https://olympus-entertainment.com/support/">Support</a></li>
+<li><a href="https://olympus-entertainment.com/donate/">Donations</a></li>
+<li><a href="https://olympus-entertainment.com/store/">Store</a></li>
+<li><a href="https://olympus-entertainment.com/olympus-policy/">Olympus Policy</a></li>
+<li><a href="https://lc2.olympus-entertainment.com/stats/top/" rel="noopener" target="_blank">Olympus Stats V2</a></li>
+<li><a href="https://wiki.olympus-entertainment.com/" rel="noopener" target="_blank">Wiki</a></li>
+<li><a href="https://olympus-entertainment.com/staff/">Staff</a></li>
+<li><a href="https://olympus-entertainment.com/servers/">Servers</a></li>
+<li><a href="https://olympus-entertainment.com/subscriptions/">Subscriptions</a></li>
+<li><a href="https://olympus-entertainment.com/store/gift-cards/?do=advancedGiftCards">Gift Cards</a></li>
+<li><a href="https://olympus-entertainment.com/calendar/">Calendar</a></li>
+<li><a href="https://olympus-entertainment.com/blogs/">Blogs</a></li>
+<li><a href="https://olympus-entertainment.com/discover/">All Activity</a></li>
+<li><a href="">My Activity Streams</a></li>
+<li><a href="https://olympus-entertainment.com/allstatuses/">All Status Updates</a></li>
+<li><a href="https://olympus-entertainment.com/discover/content-started/">Content I Started</a></li>
+<li><a href="https://olympus-entertainment.com/discover/unread/">Unread Content</a></li>
+<li><a href="https://olympus-entertainment.com/online/">Online Users</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ipsDrawer ipsHide" id="elMobileCreateMenuDrawer">
+<div class="ipsDrawer_menu">
+<a class="ipsDrawer_close" data-action="close" href="#"><span>×</span></a>
+<div class="ipsDrawer_content ipsSpacer_bottom ipsPad">
+<ul class="ipsDrawer_list">
+<li class="ipsDrawer_listTitle ipsType_reset">Create New...</li>
+</ul>
+</div>
+</div>
+</div>
+<main class="ipsLayout_container" id="ipsLayout_body"><div id="ipsLayout_contentArea">
+<nav class="ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover">
+<ul class="ipsList_inline ipsPos_right">
+<li class="ipsHide">
+<a class="ipsType_light" data-action="defaultStream" href="https://olympus-entertainment.com/discover/"><i aria-hidden="true" class="fa fa-newspaper-o"></i> <span>All Activity</span></a>
+</li>
+</ul>
+<ul data-role="breadcrumbList">
+<li>
+<a href="https://olympus-entertainment.com/" title="Home">
+<span>Home</span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="aXenLayout_contentWrapper">
+</div>
+<div id="ipsLayout_contentWrapper">
+<div id="ipsLayout_mainArea">
+<div class="ipsPageHeader ipsClearfix ipsMargin_bottom cForumHeader ipsHeaderButtons ipsFlex ipsFlex-ai:center ipsFlex-jc:between">
+<h1 class="ipsType_pageTitle ipsFlex-flex:11 ipsType_break">
+Forums
+</h1>
+<ul class="ipsToolList ipsToolList_horizontal ipsClearfix sm:ipsPos_none sm:ipsMargin:none ipsFlex-flex:00">
+<li class="ipsToolList_primaryAction ipsResponsive_hidePhone">
+<a class="ipsButton ipsButton_medium ipsButton_important" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Select Forum" href="https://olympus-entertainment.com/startTopic/">Start new topic</a>
+</li>
+</ul>
+</div>
+<ul class="ipsToolList ipsToolList_horizontal ipsResponsive_hideDesktop ipsResponsive_hideTablet ipsResponsive_block ipsClearfix">
+<li class="ipsToolList_primaryAction ipsResponsive_hideTablet">
+<a class="ipsButton ipsButton_medium ipsButton_important ipsButton_fullWidth" data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="Select Forum" href="https://olympus-entertainment.com/index.php?app=forums&amp;module=forums&amp;controller=forums&amp;do=add">Start new topic</a>
+</li>
+</ul>
+<section>
+<ol class="ipsList_reset cForumList" data-baseurl="" data-controller="core.global.core.table, forums.front.forum.forumList">
+<li class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull" data-categoryid="61">
+<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+<a class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" href="#" title="Toggle this category"></a>
+<a href="https://olympus-entertainment.com/forum/61-olympus/">Olympus</a>
+</h2>
+<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
+<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix" data-forumid="74">
+<div class="ipsDataItem_icon ipsDataItem_category">
+<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+<i class="fa fa-comments"></i>
+</span>
+</div>
+<div class="ipsDataItem_main">
+<h4 class="ipsDataItem_title ipsType_break">
+<a href="https://olympus-entertainment.com/forum/74-olympus-information/">Olympus Information</a>
+</h4>
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+</div>
+<ul class="ipsDataItem_subList ipsList_inline">
+<li class="">
+<a href="https://olympus-entertainment.com/forum/75-updates-announcements/">Updates &amp; Announcements</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/186-server-rules/">Server Rules</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/4-server-information/">Server Information</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/95-ticketsapplications/">Tickets/Applications</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/221-events/">Events</a>
+</li>
+</ul>
+</div>
+<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:end md:ipsFlex-jc:start">
+<dl>
+<dt class="ipsDataItem_stats_number">439</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> topics</dd>
+</dl>
+<dl>
+<dt class="ipsDataItem_stats_number">13.6k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+</dl>
+</div>
+</div>
+<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+<li>
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/42245-penguiny/?do=hovercard" href="https://olympus-entertainment.com/profile/42245-penguiny/" title="Go to Penguiny's profile">
+<img alt="Penguiny" src="https://olympus-entertainment.com/uploads/monthly_2021_01/1540685760_thidOIP_EsYC-4T_dmNfkHdySLiGawHaHapidApiP0w300h300.thumb_51b33d4a2612881dba54209907dfa26c.c8f3dd9715802ba05a1c14d7f17b2cb9"/>
+</a>
+</li>
+<li class="ipsDataItem_lastPoster__title"><a href="https://olympus-entertainment.com/topic/40909-apd-handbook-update-092221/" title="APD Handbook Update 09/22/21">APD Handbook Update 09/22/21</a></li>
+<li class="ipsType_light ipsType_blendLinks">
+By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/42245-penguiny/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/42245-penguiny/" title="Go to Penguiny's profile"><span style="color:gold;font-weight:bold">Penguiny</span></a>,
+<a href="https://olympus-entertainment.com/topic/40909-apd-handbook-update-092221/?do=getLastComment" title="Go to last post"><time data-short="3 dy" datetime="2021-09-24T04:58:05Z" title="09/24/2021 04:58  AM">Friday at 04:58 AM</time></a>
+</li>
+</ul>
+</li>
+<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix" data-forumid="65">
+<div class="ipsDataItem_icon ipsDataItem_category">
+<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+<i class="fa fa-comments"></i>
+</span>
+</div>
+<div class="ipsDataItem_main">
+<h4 class="ipsDataItem_title ipsType_break">
+<a href="https://olympus-entertainment.com/forum/65-general/">General</a>
+</h4>
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+</div>
+<ul class="ipsDataItem_subList ipsList_inline">
+<li class="">
+<a href="https://olympus-entertainment.com/forum/109-other-games/">Other Games</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/38-general-chit-chat/">General Chit-Chat</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/20-introductions/">Introductions</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/72-streams/">Streams</a>
+</li>
+</ul>
+</div>
+<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:end md:ipsFlex-jc:start">
+<dl>
+<dt class="ipsDataItem_stats_number">8.2k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> topics</dd>
+</dl>
+<dl>
+<dt class="ipsDataItem_stats_number">108.8k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+</dl>
+</div>
+</div>
+<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+<li>
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile">
+<img alt="Chase-" src="https://olympus-entertainment.com/uploads/monthly_2021_03/ezgif.com-gif-maker.thumb.gif.7b8ed000397c714b86f90059f7144506.gif"/>
+</a>
+</li>
+<li class="ipsDataItem_lastPoster__title"><a href="https://olympus-entertainment.com/topic/40942-new-world-hype-thread/" title="New World Hype Thread">New World Hype Thread</a></li>
+<li class="ipsType_light ipsType_blendLinks">
+By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile"><span style="color:#3a9cfe">Chase-</span></a>,
+<a href="https://olympus-entertainment.com/topic/40942-new-world-hype-thread/?do=getLastComment" title="Go to last post"><time data-short="1 hr" datetime="2021-09-28T00:00:52Z" title="09/28/2021 12:00  AM">1 hour ago</time></a>
+</li>
+</ul>
+</li>
+<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix" data-forumid="12">
+<div class="ipsDataItem_icon ipsDataItem_category">
+<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+<i class="fa fa-comments"></i>
+</span>
+</div>
+<div class="ipsDataItem_main">
+<h4 class="ipsDataItem_title ipsType_break">
+<a href="https://olympus-entertainment.com/forum/12-suggestions-amp-feedback/">Suggestions &amp; Feedback</a>
+</h4>
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>Olympus highly prioritizes your suggestions and feedback!</p>
+</div>
+</div>
+<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:end md:ipsFlex-jc:start">
+<dl>
+<dt class="ipsDataItem_stats_number">3.2k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> topics</dd>
+</dl>
+<dl>
+<dt class="ipsDataItem_stats_number">48.9k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+</dl>
+</div>
+</div>
+<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+<li>
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile">
+<img alt="Chase-" src="https://olympus-entertainment.com/uploads/monthly_2021_03/ezgif.com-gif-maker.thumb.gif.7b8ed000397c714b86f90059f7144506.gif"/>
+</a>
+</li>
+<li class="ipsType_light ipsType_blendLinks">
+By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile"><span style="color:#3a9cfe">Chase-</span></a>,
+<time data-short="8 hr" datetime="2021-09-27T16:44:06Z" title="09/27/2021 04:44  PM">8 hours ago</time>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+<li class="cForumRow ipsBox ipsSpacer_bottom ipsResponsive_pull" data-categoryid="134">
+<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+<a class="ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle" data-action="toggleCategory" data-ipstooltip="" href="#" title="Toggle this category"></a>
+<a href="https://olympus-entertainment.com/forum/134-arma-3-altis-life/">Arma 3 Altis Life</a>
+</h2>
+<ol class="ipsDataList ipsDataList_large ipsDataList_zebra" data-role="forums">
+<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix" data-forumid="7">
+<div class="ipsDataItem_icon ipsDataItem_category">
+<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+<i class="fa fa-comments"></i>
+</span>
+</div>
+<div class="ipsDataItem_main">
+<h4 class="ipsDataItem_title ipsType_break">
+<a href="https://olympus-entertainment.com/forum/7-community/">Community</a>
+</h4>
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+</div>
+<ul class="ipsDataItem_subList ipsList_inline">
+<li class="">
+<a href="https://olympus-entertainment.com/forum/136-marketplace/">Marketplace</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/9-video-amp-screenshots/">Video &amp; Screenshots</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/25-gang-recruitments/">Gang Recruitments</a>
+</li>
+<li class="">
+<a href="https://olympus-entertainment.com/forum/8-guides/">Guides</a>
+</li>
+</ul>
+</div>
+<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+</div>
+<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+<li>
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/41627-ajame/?do=hovercard" href="https://olympus-entertainment.com/profile/41627-ajame/" title="Go to Ajame's profile">
+<img alt="Ajame" src="https://olympus-entertainment.com/uploads/monthly_2021_04/ajame.thumb.jpg.54c942b4d30972694aa6ce6ffb768935.jpg"/>
+</a>
+</li>
+<li class="ipsType_light ipsType_blendLinks">
+By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/41627-ajame/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/41627-ajame/" title="Go to Ajame's profile"><span style="color:#e874ec">Ajame</span></a>,
+<time data-short="15 min" datetime="2021-09-28T00:53:05Z" title="09/28/2021 12:53  AM">15 minutes ago</time>
+</li>
+</ul>
+</li>
+<li class="cForumRow ipsDataItem ipsDataItem_responsivePhoto ipsClearfix" data-forumid="11">
+<div class="ipsDataItem_icon ipsDataItem_category">
+<span class="ipsItemStatus ipsItemStatus_large cForumIcon_normal ipsItemStatus_read">
+<i class="fa fa-comments"></i>
+</span>
+</div>
+<div class="ipsDataItem_main">
+<h4 class="ipsDataItem_title ipsType_break">
+<a href="https://olympus-entertainment.com/forum/11-olympus-life-discussion/">Olympus Life Discussion</a>
+</h4>
+<div class="ipsType_richText ipsDataItem_meta ipsContained" data-controller="core.front.core.lightboxedImages">
+<p>
+Endless possibilities!
+</p>
+</div>
+</div>
+<div class="ipsDataItem_stats ipsDataItem_statsLarge">
+<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:end md:ipsFlex-jc:start">
+<dl>
+<dt class="ipsDataItem_stats_number">3k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> topics</dd>
+</dl>
+<dl>
+<dt class="ipsDataItem_stats_number">40.1k</dt>
+<dd class="ipsDataItem_stats_type ipsType_light"> posts</dd>
+</dl>
+</div>
+</div>
+<ul class="ipsDataItem_lastPoster ipsDataItem_withPhoto">
+<li>
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/33188-lezek/?do=hovercard" href="https://olympus-entertainment.com/profile/33188-lezek/" title="Go to lezek's profile">
+<img alt="lezek" src="https://olympus-entertainment.com/uploads/monthly_2021_09/steam.thumb.jpg.7a24dd414c43082a142979ae98e9c078.jpg"/>
+</a>
+</li>
+<li class="ipsType_light ipsType_blendLinks">
+By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/33188-lezek/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/33188-lezek/" title="Go to lezek's profile"><span style="color:gold;font-weight:bold">lezek</span></a>,
+<time data-short="12 hr" datetime="2021-09-27T13:00:52Z" title="09/27/2021 01:00  PM">12 hours ago</time>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+</section>
+<div class="cWidgetContainer" data-orientation="horizontal" data-role="widgetReceiver" data-widgetarea="footer">
+<ul class="ipsList_reset">
+<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_core_stats_wd5hkj6mh" data-blocktitle="Member Statistics" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Member Statistics</h3>
+<div class="ipsWidget_inner">
+<div class="ipsFlex ipsFlex-ai:center ipsFlex-jc:between sm:ipsFlex-fd:column sm:ipsFlex-ai:stretch ipsPadding ipsWidget_stats">
+<div class="ipsFlex-flex:11 ipsFlex ipsFlex-ai:center ipsFlex-jc:around">
+<div class="ipsType_center">
+<span class="ipsType_large ipsWidget_statsCount">42,514</span><br/>
+<span class="ipsType_light ipsType_medium">Total Members</span>
+</div>
+<div class="ipsType_center">
+<span class="ipsType_large ipsWidget_statsCount" data-ipstooltip="" title="08/29/2019 12:59  AM">23,570</span><br/>
+<span class="ipsType_light ipsType_medium">Most Online</span>
+</div>
+</div>
+<div class="ipsFlex-flex:01 ipsBorder_left ipsPadding_left ipsMargin_right:double sm:ipsMargin_right:none sm:ipsMargin_top sm:ipsBorder:none sm:ipsBorder_top sm:ipsPadding_top sm:ipsPadding_left:none sm:ipsFlex sm:ipsFlex-jc:center">
+<div class="ipsPhotoPanel ipsPhotoPanel_mini cNewestMember">
+<a class="ipsUserPhoto ipsUserPhoto_mini" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47461-dj-cuerno-de-chivo/?do=hovercard" href="https://olympus-entertainment.com/profile/47461-dj-cuerno-de-chivo/" title="Go to DJ CUERNO DE CHIVO's profile">
+<img alt="DJ CUERNO DE CHIVO" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237362c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+<div>
+<span class="ipsType_minorHeading">Newest Member</span><br/>
+<span class="ipsType_normal">
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47461-dj-cuerno-de-chivo/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47461-dj-cuerno-de-chivo/" title="Go to DJ CUERNO DE CHIVO's profile"><span>DJ CUERNO DE CHIVO</span></a></span><br/>
+<span class="ipsType_small ipsType_light">Joined <time data-short="2 hr" datetime="2021-09-27T22:45:56Z" title="09/27/2021 10:45  PM">2 hours ago</time></span>
+</div>
+</div>
+</div>
+</div>
+</div></li>
+<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_core_topContributors_owvnmnpdm" data-blocktitle="Popular Contributors" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Popular Contributors</h3>
+<div class="ipsTabs ipsTabs_small ipsTabs_stretch ipsClearfix" data-ipstabbar="" data-ipstabbar-contentarea="#elTopContributors_content" data-ipstabbar-updateurl="false" id="elTopContributors">
+<a data-action="expandTabs" href="#elTopContributors"><i class="fa fa-caret-down"></i></a>
+<ul class="ipsList_reset" role="tablist">
+<li>
+<a aria-selected="true" class="ipsTabs_item ipsTabs_activeItem" href="#ipsTabs_elTopContributors_el_topContributorsWeek_panel" id="el_topContributorsWeek" role="tab">Week</a>
+</li>
+<li>
+<a aria-selected="false" class="ipsTabs_item" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=month&amp;limit=5&amp;orientation=horizontal" id="el_topContributorsMonth" role="tab">Month</a>
+</li>
+<li>
+<a aria-selected="false" class="ipsTabs_item" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=year&amp;limit=5&amp;orientation=horizontal" id="el_topContributorsYear" role="tab">Year</a>
+</li>
+<li>
+<a aria-selected="false" class="ipsTabs_item" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=topContributors&amp;time=all&amp;limit=5&amp;orientation=horizontal" id="el_topContributorsAll" role="tab">All Time</a>
+</li>
+</ul>
+</div>
+<section class="ipsWidget_inner ipsPad_half" id="elTopContributors_content">
+<div class="ipsTabs_panel" id="ipsTabs_elTopContributors_el_topContributorsWeek_panel">
+<div class="ipsGrid ipsGrid_collapsePhone">
+<div class="ipsGrid_span3">
+<div class="ipsPad_half ipsPhotoPanel ipsPhotoPanel_tiny">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44218-revenge/?do=hovercard" href="https://olympus-entertainment.com/profile/44218-revenge/" title="Go to Revenge's profile">
+<img alt="Revenge" src="https://olympus-entertainment.com/uploads/monthly_2021_09/1608668910_Adsz.png.addbf6b0835826416b4fcc02e606981b.thumb.png.ee23bf825af402fe87b29726f35c4d9d.png"/>
+</a>
+<div>
+<p class="ipsType_reset ipsTruncate ipsTruncate_line">
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44218-revenge/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/44218-revenge/" title="Go to Revenge's profile"><span>Revenge</span></a>
+</p>
+<span class="ipsRepBadge ipsRepBadge_positive" data-ipstooltip="" title="Member's reputation this period"><i class="fa fa-plus-circle"></i> 75</span>
+</div>
+</div>
+</div>
+<div class="ipsGrid_span3">
+<div class="ipsPad_half ipsPhotoPanel ipsPhotoPanel_tiny">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/19598-xlax/?do=hovercard" href="https://olympus-entertainment.com/profile/19598-xlax/" title="Go to Xlax's profile">
+<img alt="Xlax" src="https://olympus-entertainment.com/uploads/monthly_2020_09/Png.thumb.png.7dcf5c863cf98826ef0a26cd0417bae0.png"/>
+</a>
+<div>
+<p class="ipsType_reset ipsTruncate ipsTruncate_line">
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/19598-xlax/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/19598-xlax/" title="Go to Xlax's profile"><span style="color:#3a9cfe">Xlax</span></a>
+</p>
+<span class="ipsRepBadge ipsRepBadge_positive" data-ipstooltip="" title="Member's reputation this period"><i class="fa fa-plus-circle"></i> 61</span>
+</div>
+</div>
+</div>
+<div class="ipsGrid_span3">
+<div class="ipsPad_half ipsPhotoPanel ipsPhotoPanel_tiny">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17762-lorax/?do=hovercard" href="https://olympus-entertainment.com/profile/17762-lorax/" title="Go to Lorax's profile">
+<img alt="Lorax" src="https://olympus-entertainment.com/uploads/monthly_2021_09/download.thumb.jpg.589bffa47ce0eefcd636ad870c2469eb.jpg"/>
+</a>
+<div>
+<p class="ipsType_reset ipsTruncate ipsTruncate_line">
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17762-lorax/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/17762-lorax/" title="Go to Lorax's profile"><span style="color:gold;font-weight:bold">Lorax</span></a>
+</p>
+<span class="ipsRepBadge ipsRepBadge_positive" data-ipstooltip="" title="Member's reputation this period"><i class="fa fa-plus-circle"></i> 58</span>
+</div>
+</div>
+</div>
+<div class="ipsGrid_span3">
+<div class="ipsPad_half ipsPhotoPanel ipsPhotoPanel_tiny">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17443-nomadox/?do=hovercard" href="https://olympus-entertainment.com/profile/17443-nomadox/" title="Go to nomadox's profile">
+<img alt="nomadox" src="https://olympus-entertainment.com/uploads/monthly_2020_11/26bb638a2bf954067126d1674a66c92a.thumb.png.013262fe44ec4693ab873ccc1b46dd0d.png"/>
+</a>
+<div>
+<p class="ipsType_reset ipsTruncate ipsTruncate_line">
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17443-nomadox/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/17443-nomadox/" title="Go to nomadox's profile"><span>nomadox</span></a>
+</p>
+<span class="ipsRepBadge ipsRepBadge_positive" data-ipstooltip="" title="Member's reputation this period"><i class="fa fa-plus-circle"></i> 47</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section></li>
+<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_steam_steamGroupWidget_b24itk1y7" data-blocktitle="Steam Group" data-controller="core.front.widgets.block">
+<h3 class="ipsWidget_title">Olympus-Entertainment</h3>
+<div class="ipsWidget_inner st_minHeight ipsPad">
+<div class="ipsPos_left ipsSpacer st_hPhoto">
+<a class="ipsUserPhoto ipsUserPhoto_large" href="https://steamcommunity.com/groups/olympus-entertainment">
+<img src="https://olympus-entertainment.com/applications/core/interface/imageproxy/imageproxy.php?img=https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/86/861b3e8cade740a1dddc3bba9f5938c1ea7747a6_full.jpg&amp;key=0769460be0ccdfb524f93fac91a684c413731f6a117ced4e68c25972424e1c48">
+</img></a>
+<div class="ipsType_center ipsSpacer_top ipsSpacer_half">
+<div class="">
+<a class="ipsButton ipsButton_alternate ipsButton_veryVerySmall ipsSpacer_bottom ipsSpacer_half st_hJoin" href="https://steamcommunity.com/groups/olympus-entertainment">Join Group</a>
+</div>
+<div class="">
+<a class="ipsButton ipsButton_alternate ipsButton_veryVerySmall st_hJoin" href="steam://friends/joinchat/103582791462367973">Join Chat</a>
+</div>
+</div>
+</div>
+<div class="ipsPos_right ipsType_center st_hCounts">
+<div class="">
+<span class="ipsType_minorHeading">Members</span>
+<br>
+<span class="ipsType_small ipsType_neutral">583</span>
+</br></div>
+<div class="ipsSpacer_both ipsSpacer_half st_inGame">
+<span class="ipsType_minorHeading st_inGame">In-Game</span>
+<br>
+<span class="ipsType_small">22</span>
+</br></div>
+<div class="ipsSpacer_both ipsSpacer_half st_online">
+<span class="ipsType_minorHeading st_online">Online</span>
+<br>
+<span class="ipsType_small">146</span>
+</br></div>
+<div class="ipsSpacer_bottom ipsSpacer_half">
+<span class="ipsType_minorHeading">In-Chat</span>
+<br>
+<span class="ipsType_small ipsType_neutral">171</span>
+</br></div>
+</div>
+<div class="ipsSpacer_both ipsType_center">
+<span class="ipsType_large ipsType_reset">Olympus is home to the most active North American Arma 3 Life Server!</span>
+</div>
+<div class="ipsSpacer_bottom ipsType_center" data-ipstruncate="" data-ipstruncate-size="10 lines" data-ipstruncate-type="hide">
+<span class="ipsType_medium">No information given.</span>
+</div>
+<div class="ipsType_center">
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/15002-tech/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Tech" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/76/76076648f1471f4eced849173d7ae508963859f8_medium.jpg" title="Tech">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/45735-mavicjoe/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Mavicjoe" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8d5aecf456aa5cefd6afd58d42985e64363ca954_medium.jpg" title="Mavicjoe">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/26964-mb-det20/?tab=node_steam_steamprofile" target="_blank">
+<img alt="vocaltrash" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9f/9f65c87392946d6d5b0f2aa602a9492e2ed9f114_medium.jpg" title="vocaltrash">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/22040-civak/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Civak" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2d/2d90f357385c44018b2493d16deebbca6496657f_medium.jpg" title="Civak">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/15984-hayha/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Jimara" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/de1527439ee35118d55b1691b52c3b79daef5afe_medium.jpg" title="Jimara">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/37067-theheronoob/?tab=node_steam_steamprofile" target="_blank">
+<img alt="TheHeroNoob" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8d5aecf456aa5cefd6afd58d42985e64363ca954_medium.jpg" title="TheHeroNoob">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/7723-mesita/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Mountain Dew Sucks" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a1/a17af314696e154ce1755f68f90a67d6f13295a3_medium.jpg" title="Mountain Dew Sucks">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/37070-mintscraft/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Mints" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/81/81dacff718e3733b4d3e2bbae4c1cd58d7541432_medium.jpg" title="Mints">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/44463-pengu/?tab=node_steam_steamprofile" target="_blank">
+<img alt="imma cweet one ∩" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0e/0ec43e0f8563d3c2d3bf29022eb875e5a8110433_medium.jpg" title="imma cweet one ∩">
+</img></a>
+<a class="ipsUserPhoto ipsUserPhoto_mini" href="https://olympus-entertainment.com/profile/11237-decimus/?tab=node_steam_steamprofile" target="_blank">
+<img alt="Decimus" data-ipstooltip="" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5dda26d772bff5d1216304e3b2d170528fdc0a82_medium.jpg" title="Decimus">
+</img></a>
+</div>
+</div></li>
+<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_core_whosOnline_55o8e5j6w" data-blocktitle="Who's Online" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">
+Who's Online
+  <span class="ipsType_light ipsType_unbold ipsType_medium">88 all people including: 65 Members, 3 Anonymous, 20 Guests</span>
+<span class="ipsType_medium ipsType_light ipsType_unbold ipsType_blendLinks"><a href="https://olympus-entertainment.com/online/">(See full list)</a></span>
+</h3>
+<div class="ipsWidget_inner ipsPadding">
+<ul class="ipsList_inline ipsList_csv ipsList_noSpacing ipsType_normal" data-controller="core.front.widgets.onlineUsers">
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/22295-dealer/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/22295-dealer/" title="Go to Dealer's profile"><span>Dealer</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/41627-ajame/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/41627-ajame/" title="Go to Ajame's profile"><span style="color:#e874ec">Ajame</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/20717-tammy/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/20717-tammy/" title="Go to Tammy's profile"><span>Tammy</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/39264-yaboinate/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/39264-yaboinate/" title="Go to YaBoiNate's profile"><span>YaBoiNate</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/46288-canna/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/46288-canna/" title="Go to Canna's profile"><span>Canna</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/42522-xjake758/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/42522-xjake758/" title="Go to xJake758's profile"><span style="color:#3a9cfe">xJake758</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/39844-dragongod091/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/39844-dragongod091/" title="Go to Dragongod091's profile"><span>Dragongod091</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/46902-badkarma-patterson/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/46902-badkarma-patterson/" title="Go to BadKarma-Patterson's profile"><span>BadKarma-Patterson</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/27276-house/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/27276-house/" title="Go to House's profile"><span style="color:gold;font-weight:bold">House</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/12268-bloodmoon/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/12268-bloodmoon/" title="Go to Bloodmoon's profile"><span style="color:gold;font-weight:bold">Bloodmoon</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/5849-peco-teco/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/5849-peco-teco/" title="Go to Peco Teco's profile"><span style="color:gold;font-weight:bold">Peco Teco</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/39265-doc/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/39265-doc/" title="Go to Doc's profile"><span ;="" class="shake-opacity" style="font-weight: bold;  background-image: url(https://olympus-entertainment.com/uploads/sparkles/sparkle_red.gif);  color: #54d1a1;">Doc</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/33902-_logan/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/33902-_logan/" title="Go to _logan's profile"><span style="color:#3a9cfe">_logan</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/4271-brother-bruce/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/4271-brother-bruce/" title="Go to Brother Bruce's profile"><span>Brother Bruce</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/41811-c-baby/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/41811-c-baby/" title="Go to C baby's profile"><span>C baby</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/2282-fraali/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/2282-fraali/" title="Go to Fraali's profile"><span ;="" class="shake-opacity" style="font-weight: bold;  background-image: url(https://i.imgur.com/PNTkery.gif);  color: #54d1a1;">Fraali</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/12289-thatnerdyguy/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/12289-thatnerdyguy/" title="Go to ThatNerdyGuy's profile"><span style="color:red;font-weight:bold;">ThatNerdyGuy</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/37670-wshd/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/37670-wshd/" title="Go to wshd's profile"><span style="color:#3a9cfe">wshd</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/9190-scream/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/9190-scream/" title="Go to ScreaM's profile"><span>ScreaM</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/18076-fudgerk/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/18076-fudgerk/" title="Go to FudgerK's profile"><span>FudgerK</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17443-nomadox/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/17443-nomadox/" title="Go to nomadox's profile"><span>nomadox</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/20980-braedmind/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/20980-braedmind/" title="Go to braedmind's profile"><span>braedmind</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47240-saltyclimax/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47240-saltyclimax/" title="Go to SaltyClimax's profile"><span>SaltyClimax</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17577-grooovy/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/17577-grooovy/" title="Go to grooovy's profile"><span style="color:gold;font-weight:bold">grooovy</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/1337-hardknocklife/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/1337-hardknocklife/" title="Go to -HardKnockLife.'s profile"><span style="color:gold;font-weight:bold">-HardKnockLife.</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/6603-bubbaloo-burrito/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/6603-bubbaloo-burrito/" title="Go to Bubbaloo Burrito's profile"><span style="color:#74DF00;font-weight:bold;">Bubbaloo Burrito</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/5745-bearinacavetv/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/5745-bearinacavetv/" title="Go to BearInACaveTv's profile"><span style="color:#3a9cfe">BearInACaveTv</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/29873-purge/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/29873-purge/" title="Go to purge's profile"><span style="color:gold;font-weight:bold">purge</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/24020-destruct/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/24020-destruct/" title="Go to destruct's profile"><span ;="" class="shake-hard" style="font-weight: bold;  background-image: url(https://olympus-entertainment.com/uploads/sparkles/sparkle_white.gif);  color: #E00000;">destruct</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/27246-tobubas/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/27246-tobubas/" title="Go to Tobubas's profile"><span>Tobubas</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/15306-ryan/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/15306-ryan/" title="Go to Ryan's profile"><span class="shake-opacity" style="color:goldenrod;font-weight:bold; background-image: url(https://olympus-entertainment.com/uploads/sparkles/fire_black.gif);">Ryan</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/26192-millennium/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/26192-millennium/" title="Go to Millennium's profile"><span style="color:red;font-weight:bold;">Millennium</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/34026-walt/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/34026-walt/" title="Go to WALT's profile"><span style="color:#8f0b5a">WALT</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/29398-coconut/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/29398-coconut/" title="Go to Coconut's profile"><span style="color:green;">Coconut</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/21713-doctor-doom/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/21713-doctor-doom/" title="Go to Doctor Doom's profile"><span style="color:green;">Doctor Doom</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/18963-shades/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/18963-shades/" title="Go to Shades's profile"><span style="color:#e874ec;font-weight:bold;">Shades</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/29071-clashby/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/29071-clashby/" title="Go to ClashBy's profile"><span style="color:#3a9cfe">ClashBy</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/15745-hawk/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/15745-hawk/" title="Go to hawk's profile"><span style="color:#7B8490;font-weight:bold">hawk</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/45181-don-warrio/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/45181-don-warrio/" title="Go to Don Warrio's profile"><span>Don Warrio</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/22235-maxg/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/22235-maxg/" title="Go to maxg's profile"><span style="color:#e874ec;font-weight:bold;">maxg</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/35873-dubbedsoap/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/35873-dubbedsoap/" title="Go to DubbedSoap's profile"><span style="color:gold;font-weight:bold">DubbedSoap</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/40057-eskimojoe/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/40057-eskimojoe/" title="Go to EskimoJoe's profile"><span>EskimoJoe</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/12831-headless/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/12831-headless/" title="Go to HeadLESS's profile"><span style="color:red;font-weight:bold;">HeadLESS</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47452-broquebeitel/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47452-broquebeitel/" title="Go to Broquebeitel's profile"><span>Broquebeitel</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47460-hemp/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47460-hemp/" title="Go to Hemp's profile"><span>Hemp</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/43621-j_oseph__/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/43621-j_oseph__/" title="Go to J_oseph__'s profile"><span>J_oseph__</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/20233-coob/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/20233-coob/" title="Go to Coob's profile"><span style="color:gold;font-weight:bold">Coob</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/23394-lucien/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/23394-lucien/" title="Go to Lucien's profile"><span>Lucien</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/13054-silton/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/13054-silton/" title="Go to Silton's profile"><span style="color:#8f0b5a">Silton</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/16820-ravin/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/16820-ravin/" title="Go to Ravin's profile"><span style="color:gold;font-weight:bold">Ravin</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/13758-hurricane/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/13758-hurricane/" title="Go to Hurricane's profile"><span style="color:red;font-weight:bold;">Hurricane</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47200-cammya/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47200-cammya/" title="Go to CammyA's profile"><span style="color:#3a9cfe">CammyA</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/40644-agent-ryker/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/40644-agent-ryker/" title="Go to Agent Ryker's profile"><span style="color:gold;font-weight:bold">Agent Ryker</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/6054-zahzi/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/6054-zahzi/" title="Go to Zahzi's profile"><span ;="" class="shake-opacity" style="font-weight: bold;  background-image: url(https://olympus-entertainment.com/uploads/sparkles/sparkle_brown.gif);  color: #FF9101;">Zahzi</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/29155-g-f/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/29155-g-f/" title="Go to G F's profile"><span>G F</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/35553-olympus-mascot/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/35553-olympus-mascot/" title="Go to olympus mascot's profile"><span style="color:gold;font-weight:bold">olympus mascot</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/24952-revise/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/24952-revise/" title="Go to Revise's profile"><span style="color:#ee8800">Revise</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/45073-tay/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/45073-tay/" title="Go to Tay's profile"><span>Tay</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/17508-sploding/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/17508-sploding/" title="Go to sploding's profile"><span style="color:#ac58fa">sploding</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/30091-poopy/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/30091-poopy/" title="Go to Poopy's profile"><span style="color:#e874ec">Poopy</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/23741-tyronee/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/23741-tyronee/" title="Go to Tyronee's profile"><span style="color:#2E9AFE;font-weight:bold">Tyronee</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/12327-vcx/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/12327-vcx/" title="Go to Vcx's profile"><span>Vcx</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/30830-pablo-red/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/30830-pablo-red/" title="Go to pablo red's profile"><span style="color:gold;font-weight:bold">pablo red</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/15361-mako/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/15361-mako/" title="Go to Mako's profile"><span ;="" class="shake-hard" style="font-weight: bold;  background-image: url(https://olympus-entertainment.com/uploads/sparkles/sparkle_white.gif);  color: #FF9101;">Mako</span></a>
+</li>
+<li>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/27917-venomm/?do=hovercard" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/27917-venomm/" title="Go to Venomm's profile"><span style="color:#e874ec">Venomm</span></a>
+</li>
+</ul>
+</div></li>
+<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_axenserverlist_aXenServerListWidget_qqz88vfij" data-blocktitle="Server List" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title ipsFlex ipsFlex-jc:between aXenServerList">
+<span>Our servers</span>
+<a class="ipsType_noUnderline aXenServerList_toggle aXenServerList_toggle_scroll ipsMargin_right ipsResponsive_showDesktop" data-ipstooltip="" href="#" title="Toggle scroll"></a>
+<a class="ipsType_noUnderline aXenServerList_toggle aXenServerList_toggle_hide" data-ipstooltip="" href="#" title="Toggle this widget"></a>
+</h3>
+<ul class="aXenServerList_ul aXenServerList_ul_scroll">
+<li class="ipsDataItem">
+<ul class="ipsList_reset aXenServerList_item">
+<li class="aXenServerList_item_title">
+<span class="aXenServerList_item_title:status aXenServerList_item_title:status-online"></span>
+<img _title="Arma3" alt="Arma3" class="aXenServerList_item_title:img" data-ipstooltip="" src="https://olympus-entertainment.com/uploads/set_resources_39/9db5fd9a0a252bb6f986d2bf76081428_arma3.png"/>
+<span class="aXenServerList_item_title:name">
+Olympus #1: Altis Life : HOUSING|CARTELS|VIGILANTE
+</span>
+</li>
+<li class="aXenServerList_item:ip">
+<a class="ipsButton aXenServerListButton ipsButton_light ipsResponsive_showDesktop" data-ipstooltip="" href="steam://connect/os1.olympus-entertainment.com:2303" title="Connect">
+<i class="fa fa-link"></i>
+</a>
+os1.olympus-entertainment.com
+</li>
+<li class="aXenServerList_item_players">
+<svg class="aXenServerList_item_players_svg" viewbox="0 0 49 40.22" xmlns="http://www.w3.org/2000/svg">
+<path class="aXenServerList_item_players_svg:none" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" transform="translate(-1042 -1082)"></path>
+<path class="aXenServerList_item_players_svg:fill aXenServerList_item_players_svg:fill_81_100" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" style="stroke-dashoffset: calc(100px - 97px);" transform="translate(-1042 -1082)"></path>
+</svg>
+<span>136 / 140</span>
+</li>
+<li class="aXenServerList_item_more">
+<ul class="aXenServerList_item_more_ul">
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_light" data-ipstooltip="" href="https://www.battlemetrics.com/servers/arma3/7991938" rel="noopener nofollow" target="_blank" title="Statistics">
+<i class="fa fa-bar-chart"></i>
+</a>
+</li>
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_normal" data-ipstooltip="" href="www.olympus-entertainment.com" title="Forum">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+<li>
+<button class="ipsButton aXenServerListButton ipsButton_normal" data-ipsmenu="" data-ipstooltip="" id="aXenServerList_1" title="More">
+<i class="fa fa-info-circle"></i>
+</button>
+<div class="ipsMenu aXenServerListMenu ipsHide" id="aXenServerList_1_menu">
+<div class="aXenServerList_item_more_menu ipsPadding:half">
+<ul class="aXenServerList_item_more_info aXenServerList_item_more_info:fullWidth">
+<li>
+<span><i class="fa fa-map"></i> Map</span>
+<span>
+Altis
+</span>
+</li>
+<li>
+<span><i class="fa fa-server"></i> Protocol</span>
+<span>
+source
+</span>
+</li>
+<li>
+<span><i class="fa fa-unlock"></i> Password</span>
+<span>
+No
+</span>
+</li>
+<li>
+<span><i class="fa fa-percent"></i> Percentage filling</span>
+<span>
+97%
+</span>
+</li>
+<li>
+<span><i class="fa fa-users"></i> Most players</span>
+<span>
+140
+</span>
+</li>
+</ul>
+<ul class="aXenServerList_item_more_menu_links">
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_light" href="https://www.battlemetrics.com/servers/arma3/7991938" rel="noopener nofollow" target="_blank">
+<i class="fa fa-bar-chart"></i> Statistics
+</a>
+</li>
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_normal" href="www.olympus-entertainment.com">
+<i class="fa fa-comments"></i> Forum
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="ipsDataItem">
+<ul class="ipsList_reset aXenServerList_item">
+<li class="aXenServerList_item_title">
+<span class="aXenServerList_item_title:status aXenServerList_item_title:status-online"></span>
+<img _title="Arma3" alt="Arma3" class="aXenServerList_item_title:img" data-ipstooltip="" src="https://olympus-entertainment.com/uploads/set_resources_39/9db5fd9a0a252bb6f986d2bf76081428_arma3.png"/>
+<span class="aXenServerList_item_title:name">
+Olympus #2: Altis Life : OPEN 5:30PM - 1:30AM EST
+</span>
+</li>
+<li class="aXenServerList_item:ip">
+<a class="ipsButton aXenServerListButton ipsButton_light ipsResponsive_showDesktop" data-ipstooltip="" href="steam://connect/os2.olympus-entertainment.com:2303" title="Connect">
+<i class="fa fa-link"></i>
+</a>
+os2.olympus-entertainment.com
+</li>
+<li class="aXenServerList_item_players">
+<svg class="aXenServerList_item_players_svg" viewbox="0 0 49 40.22" xmlns="http://www.w3.org/2000/svg">
+<path class="aXenServerList_item_players_svg:none" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" transform="translate(-1042 -1082)"></path>
+<path class="aXenServerList_item_players_svg:fill aXenServerList_item_players_svg:fill_21_40" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" style="stroke-dashoffset: calc(100px - 31px);" transform="translate(-1042 -1082)"></path>
+</svg>
+<span>37 / 120</span>
+</li>
+<li class="aXenServerList_item_more">
+<ul class="aXenServerList_item_more_ul">
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_light" data-ipstooltip="" href="https://www.battlemetrics.com/servers/arma3/226555" rel="noopener nofollow" target="_blank" title="Statistics">
+<i class="fa fa-bar-chart"></i>
+</a>
+</li>
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_normal" data-ipstooltip="" href="https://olympus-entertainment.com/" title="Forum">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+<li>
+<button class="ipsButton aXenServerListButton ipsButton_normal" data-ipsmenu="" data-ipstooltip="" id="aXenServerList_2" title="More">
+<i class="fa fa-info-circle"></i>
+</button>
+<div class="ipsMenu aXenServerListMenu ipsHide" id="aXenServerList_2_menu">
+<div class="aXenServerList_item_more_menu ipsPadding:half">
+<ul class="aXenServerList_item_more_info aXenServerList_item_more_info:fullWidth">
+<li>
+<span><i class="fa fa-map"></i> Map</span>
+<span>
+Altis
+</span>
+</li>
+<li>
+<span><i class="fa fa-server"></i> Protocol</span>
+<span>
+source
+</span>
+</li>
+<li>
+<span><i class="fa fa-unlock"></i> Password</span>
+<span>
+No
+</span>
+</li>
+<li>
+<span><i class="fa fa-percent"></i> Percentage filling</span>
+<span>
+31%
+</span>
+</li>
+<li>
+<span><i class="fa fa-users"></i> Most players</span>
+<span>
+114
+</span>
+</li>
+</ul>
+<ul class="aXenServerList_item_more_menu_links">
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_light" href="https://www.battlemetrics.com/servers/arma3/226555" rel="noopener nofollow" target="_blank">
+<i class="fa fa-bar-chart"></i> Statistics
+</a>
+</li>
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_normal" href="https://olympus-entertainment.com/">
+<i class="fa fa-comments"></i> Forum
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="ipsDataItem">
+<ul class="ipsList_reset aXenServerList_item">
+<li class="aXenServerList_item_title">
+<span class="aXenServerList_item_title:status aXenServerList_item_title:status-online"></span>
+<img _title="Arma3" alt="Arma3" class="aXenServerList_item_title:img" data-ipstooltip="" src="https://olympus-entertainment.com/uploads/set_resources_39/9db5fd9a0a252bb6f986d2bf76081428_arma3.png"/>
+<span class="aXenServerList_item_title:name">
+Olympus #3: Stratis Conquest
+</span>
+</li>
+<li class="aXenServerList_item:ip">
+<a class="ipsButton aXenServerListButton ipsButton_light ipsResponsive_showDesktop" data-ipstooltip="" href="steam://connect/os3.olympus-entertainment.com:2303" title="Connect">
+<i class="fa fa-link"></i>
+</a>
+os3.olympus-entertainment.com
+</li>
+<li class="aXenServerList_item_players">
+<svg class="aXenServerList_item_players_svg" viewbox="0 0 49 40.22" xmlns="http://www.w3.org/2000/svg">
+<path class="aXenServerList_item_players_svg:none" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" transform="translate(-1042 -1082)"></path>
+<path class="aXenServerList_item_players_svg:fill" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" style="stroke-dashoffset: calc(100px - 0px);" transform="translate(-1042 -1082)"></path>
+</svg>
+<span>0 / 120</span>
+</li>
+<li class="aXenServerList_item_more">
+<ul class="aXenServerList_item_more_ul">
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_light" data-ipstooltip="" href="https://www.battlemetrics.com/servers/arma3/911972" rel="noopener nofollow" target="_blank" title="Statistics">
+<i class="fa fa-bar-chart"></i>
+</a>
+</li>
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_normal" data-ipstooltip="" href="https://olympus-entertainment.com/" title="Forum">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+<li>
+<button class="ipsButton aXenServerListButton ipsButton_normal" data-ipsmenu="" data-ipstooltip="" id="aXenServerList_3" title="More">
+<i class="fa fa-info-circle"></i>
+</button>
+<div class="ipsMenu aXenServerListMenu ipsHide" id="aXenServerList_3_menu">
+<div class="aXenServerList_item_more_menu ipsPadding:half">
+<ul class="aXenServerList_item_more_info aXenServerList_item_more_info:fullWidth">
+<li>
+<span><i class="fa fa-map"></i> Map</span>
+<span>
+Stratis
+</span>
+</li>
+<li>
+<span><i class="fa fa-server"></i> Protocol</span>
+<span>
+source
+ </span>
+</li>
+<li>
+<span><i class="fa fa-unlock"></i> Password</span>
+<span>
+No
+</span>
+</li>
+<li>
+<span><i class="fa fa-percent"></i> Percentage filling</span>
+<span>
+0%
+</span>
+</li>
+<li>
+<span><i class="fa fa-users"></i> Most players</span>
+<span>
+91
+</span>
+</li>
+</ul>
+<ul class="aXenServerList_item_more_menu_links">
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_light" href="https://www.battlemetrics.com/servers/arma3/911972" rel="noopener nofollow" target="_blank">
+<i class="fa fa-bar-chart"></i> Statistics
+</a>
+</li>
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_normal" href="https://olympus-entertainment.com/">
+<i class="fa fa-comments"></i> Forum
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="ipsDataItem">
+<ul class="ipsList_reset aXenServerList_item">
+<li class="aXenServerList_item_title">
+<span class="aXenServerList_item_title:status aXenServerList_item_title:status-online"></span>
+<img _title="Discord" alt="Discord" class="aXenServerList_item_title:img" data-ipstooltip="" src="https://olympus-entertainment.com/uploads/set_resources_39/9db5fd9a0a252bb6f986d2bf76081428_discord.png"/>
+<span class="aXenServerList_item_title:name">
+Olympus Entertainment
+</span>
+</li>
+<li class="aXenServerList_item:ip">
+<a class="ipsButton aXenServerListButton ipsButton_light" data-ipstooltip="" href="https://discordapp.com/invite/JBzd3CRH" target="blank" title="Connect">
+<i class="fa fa-link"></i>
+</a>
+Click connect button
+</li>
+<li class="aXenServerList_item_players">
+<svg class="aXenServerList_item_players_svg" viewbox="0 0 49 40.22" xmlns="http://www.w3.org/2000/svg">
+<path class="aXenServerList_item_players_svg:none" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" transform="translate(-1042 -1082)"></path>
+<path class="aXenServerList_item_players_svg:fill aXenServerList_item_players_svg:fill_81_100" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" style="stroke-dashoffset: calc(100px - 100px);" transform="translate(-1042 -1082)"></path>
+</svg>
+<span>1774 / 1774</span>
+</li>
+<li class="aXenServerList_item_more">
+<ul class="aXenServerList_item_more_ul">
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_normal" data-ipstooltip="" href="www.olympus-entertainment.com" title="Forum">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+<li>
+<button class="ipsButton aXenServerListButton ipsButton_normal" data-ipsmenu="" data-ipstooltip="" id="aXenServerList_5" title="More">
+<i class="fa fa-info-circle"></i>
+</button>
+<div class="ipsMenu aXenServerListMenu ipsHide" id="aXenServerList_5_menu">
+<div class="aXenServerList_item_more_menu ipsPadding:half">
+<ul class="aXenServerList_item_more_info aXenServerList_item_more_info:fullWidth">
+<li>
+<span><i class="fa fa-map"></i> Map</span>
+<span>
+N/A
+</span>
+</li>
+<li>
+<span><i class="fa fa-server"></i> Protocol</span>
+<span>
+discord
+</span>
+</li>
+<li>
+<span><i class="fa fa-unlock"></i> Password</span>
+<span>
+No
+</span>
+</li>
+<li>
+<span><i class="fa fa-percent"></i> Percentage filling</span>
+<span>
+100%
+</span>
+</li>
+<li>
+<span><i class="fa fa-users"></i> Most players</span>
+<span>
+1853
+</span>
+</li>
+</ul>
+<ul class="aXenServerList_item_more_menu_links">
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_normal" href="www.olympus-entertainment.com">
+<i class="fa fa-comments"></i> Forum
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="ipsDataItem">
+<ul class="ipsList_reset aXenServerList_item">
+<li class="aXenServerList_item_title">
+<span class="aXenServerList_item_title:status aXenServerList_item_title:status-online"></span>
+<img _title="Teamspeak 3" alt="Teamspeak 3" class="aXenServerList_item_title:img" data-ipstooltip="" src="https://olympus-entertainment.com/uploads/set_resources_39/9db5fd9a0a252bb6f986d2bf76081428_teamspeak3.png"/>
+<span class="aXenServerList_item_title:name">
+Olympus Entertainment
+</span>
+</li>
+<li class="aXenServerList_item:ip">
+<a class="ipsButton aXenServerListButton ipsButton_light ipsResponsive_showDesktop" data-ipstooltip="" href="ts3server://54.39.247.170?port=9987" title="Connect">
+<i class="fa fa-link"></i>
+</a>
+ts.olympus-entertainment.com
+</li>
+<li class="aXenServerList_item_players">
+<svg class="aXenServerList_item_players_svg" viewbox="0 0 49 40.22" xmlns="http://www.w3.org/2000/svg">
+<path class="aXenServerList_item_players_svg:none" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" transform="translate(-1042 -1082)"></path>
+<path class="aXenServerList_item_players_svg:fill aXenServerList_item_players_svg:fill_21_40" d="M1048.02,1119.34a22.5,22.5,0,1,1,37.15-.28" style="stroke-dashoffset: calc(100px - 32px);" transform="translate(-1042 -1082)"></path>
+</svg>
+<span>82 / 256</span>
+</li>
+<li class="aXenServerList_item_more">
+<ul class="aXenServerList_item_more_ul">
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_light" data-ipstooltip="" href="https://ts3index.com/?page=server&amp;id=262648" rel="noopener nofollow" target="_blank" title="Statistics">
+<i class="fa fa-bar-chart"></i>
+</a>
+</li>
+<li>
+<a class="ipsButton aXenServerListButton ipsButton_normal" data-ipstooltip="" href="www.olympus-entertainment.com" title="Forum">
+<i class="fa fa-comments"></i>
+</a>
+</li>
+<li>
+<button class="ipsButton aXenServerListButton ipsButton_normal" data-ipsmenu="" data-ipstooltip="" id="aXenServerList_4" title="More">
+<i class="fa fa-info-circle"></i>
+</button>
+<div class="ipsMenu aXenServerListMenu ipsHide" id="aXenServerList_4_menu">
+<div class="aXenServerList_item_more_menu ipsPadding:half">
+<ul class="aXenServerList_item_more_info aXenServerList_item_more_info:fullWidth">
+<li>
+<span><i class="fa fa-map"></i> Map</span>
+<span>
+N/A
+</span>
+</li>
+<li>
+<span><i class="fa fa-server"></i> Protocol</span>
+<span>
+teamspeak3
+</span>
+</li>
+<li>
+<span><i class="fa fa-unlock"></i> Password</span>
+<span>
+No
+</span>
+</li>
+<li>
+<span><i class="fa fa-percent"></i> Percentage filling</span>
+<span>
+32%
+</span>
+</li>
+<li>
+<span><i class="fa fa-users"></i> Most players</span>
+<span>
+138
+</span>
+</li>
+</ul>
+<ul class="aXenServerList_item_more_menu_links">
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_light" href="https://ts3index.com/?page=server&amp;id=262648" rel="noopener nofollow" target="_blank">
+<i class="fa fa-bar-chart"></i> Statistics
+</a>
+</li>
+<li>
+<a class="ipsButton ipsButton_fullWidth ipsButton_normal" href="www.olympus-entertainment.com">
+<i class="fa fa-comments"></i> Forum
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="ipsList_reset ipsFlex ipsFlex-ai:center ipsFlex-jc:around">
+<li class="ipsPadding:half ipsType_center">
+<span class="ipsBadge ipsBadge_new">
+5
+</span> Total servers
+</li>
+<li class="ipsPadding:half ipsType_center">
+<span class="ipsBadge ipsBadge_positive">
+2029 / 2410
+</span> Total players
+</li>
+<li class="ipsPadding:half ipsType_center">
+<span class="ipsBadge ipsBadge_negative">
+84%
+</span> Filled servers
+</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div class="ipsLayout_sidebarright" data-controller="core.front.widgets.sidebar" id="ipsLayout_sidebar">
+<div class="cWidgetContainer" data-orientation="vertical" data-role="widgetReceiver" data-widgetarea="sidebar">
+<ul class="ipsList_reset">
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block ipsResponsive_hidePhone ipsResponsive_hideTablet ipsResponsive_hideDesktop" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_cms_Wysiwyg_99oxer2q7" data-blocktitle="WYSIWYG Editor" data-controller="core.front.widgets.block">
+<div class="ipsWidget_inner ipsPad ipsType_richText" data-controller="core.front.core.lightboxedImages">
+<p>
+<a href="https://discord.gg/GmCzG4W" rel="external nofollow"><img alt="UqTKxPJ.png" class="ipsImage ipsImage_thumbnailed" data-fileid="9502" data-ratio="41.61" src="https://olympus-entertainment.com/uploads/monthly_2019_09/UqTKxPJ.png.1f6f0174d7d8d82f636d2492a5384f83.png" style="width:297px;height:122px;" width="298"/></a>
+</p>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_brilliantdiscord_discordWidget_g4582yrez" data-blocktitle="Discord Widget" data-controller="core.front.widgets.block">
+<div class="ipsType_center">
+<a href="https://olympus-entertainment.com/discord/invite/general/" rel="nofollow">
+<img alt="brilliantdiscord_widget" class="ipsImage" src="https://discordapp.com/api/guilds/530422209626243094/widget.png?style=banner4"/>
+</a>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_donate_donateGoals_4b5zhajh1" data-blocktitle="Donation Goals" data-controller="core.front.widgets.block">
+<h3 class="ipsWidget_title ipsType_reset">September 2021</h3>
+<div class="ipsPad ipsWidget_inner" style="padding-top:0;">
+<div class="ipsContained">
+Please consider donating to help cover our monthly costs. We appreciate all donations! Check out the donate page to view more information.
+</div><br/>
+<div data-ipstooltip="" data-ipstooltip-label="86% of the goal has been met">
+<style>
+	.progress {
+		position: relative;
+		height: 25px;
+		background-color: #bbb;
+		margin: 0;
+		border-radius: 4px!important;
+		-webkit-border-radius: 4px!important;
+		-moz-border-radius: 4px!important;
+		border: 0;
+		background-image: none;
+		filter: none;
+		box-shadow: none;
+		-webkit-box-shadow: none;
+		-moz-box-shadow: none;
+		box-shadow: none;
+		overflow: hidden;
+	}
+
+	.progress-bar {
+		float: left;
+		width: 0;
+		height: 100%;
+		font-size: 12px;
+		line-height: 20px;
+		color: #fff;
+		text-align: center;
+		background-color: #337ab7;
+		-webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+		box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+		-webkit-transition: width .6s ease;
+		-o-transition: width .6s ease;
+		transition: width .6s ease;
+	}
+
+	.progress-info {
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		bottom: 0;
+	}
+	
+	.progress-info>span {
+		display: block;
+		line-height: 25px;
+		float: left;
+		text-align: center;
+		color: #fff;
+	}
+</style>
+<div class="progress">
+<div class="progress-bar" style="width:19%; background-color: #9B59B6;"></div>
+<div class="progress-bar" style="width: 19%; background-color: #E67E22;"></div>
+<div class="progress-bar" style="width: 19%; background-color: #4ECDC4;"></div>
+<div class="progress-bar" style="width: 23%; background-color: #81CFE0;"></div>
+<div class="progress-bar" style="width: 6%; background-color: #E26A6A;"></div>
+<div class="progress-bar" style="width: 0%; background-color: #E8646A;"></div>
+<div class="progress-info">
+<span style="width: 19%"></span>
+<span style="width: 19%"></span>
+<span style="width: 19%"></span>
+<span style="width: 23%"></span>
+<span style="width: 10%"></span>
+<span style="width: 10%"></span>
+</div>
+</div><br/>
+</div>
+<a class="ipsButton ipsButton_small ipsButton_primary ipsButton_fullWidth ipsSpacer_top ipsSpacer_half" href="https://olympus-entertainment.com/donate/">Donate</a>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_nexus_subscriptions_clbhrclsu" data-blocktitle="Member Subscriptions" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Available Subscriptions</h3>
+<div class="ipsWidget_inner">
+<ul class="ipsDataList">
+<li class="ipsDataItem">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/subscriptions/1/">
+<div class="ipsDataItem_main">
+<div class="cWidgetSubscription ipsPad_half">
+<div class="cWidgetSubscription_bg" style='background-image: url( "https://olympus-entertainment.com/uploads/monthly_2021_04/pleasedontslaveme.png.48326d87f244cb27c0f8302c7d4c9e6e.png" )'></div>
+<span class="cWidgetSubscription_text">
+Olympus Plus - $15/30 days
+<span class="cNexusPrice_tax ipsType_light"></span>
+</span>
+</div>
+</div>
+</a>
+</li>
+</ul>
+<p class="cWidgetSubscription_linkbox ipsType_reset ipsPad_half ipsType_right ipsType_small">
+<a class="ipsType_light" href="https://olympus-entertainment.com/subscriptions/">See all Subscription Plans <i class="fa fa-caret-right"></i></a>
+</p>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_cms_Blocks_1qz4lilo5" data-blocktitle="Custom Blocks" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title"><a href="https://olympus-entertainment.com/cal/">Upcoming Events</a></h3>
+<div style="text-align: center;">
+<a href="/cal/">
+</a>
+<div class="ipsPad ipsWidget_inner" style="">
+<div class="ipsContained" style="text-align:left;">View the google calendar for upcoming events (conquest, etc) by clicking below.</div>
+<br/>
+<a class="ipsButton ipsButton_small ipsButton_primary ipsButton_fullWidth ipsSpacer_top ipsSpacer_half" href="https://olympus-entertainment.com/cal/">Calendar</a>
+</div>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsWidgetHide ipsHide ipsResponsive_block ipsResponsive_hidePhone ipsResponsive_hideTablet ipsResponsive_hideDesktop" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_calendar_upcomingEvents_5ixgzw0qo" data-blocktitle="Upcoming Events" data-controller="core.front.widgets.block"></li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_blog_entryFeed_kdwk88i96" data-blocktitle="Blog Entry Feed" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Update Changelogs</h3>
+<div class="ipsPad_half ipsWidget_inner">
+<ul class="ipsDataList ipsDataList_reducedSpacing">
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/2282-fraali/?do=hovercard" href="https://olympus-entertainment.com/profile/2282-fraali/" title="Go to Fraali's profile">
+<img alt="Fraali" src="https://olympus-entertainment.com/uploads/monthly_2020_03/imported-photo-2282.thumb.jpeg.b7209f62f6b869fc74377d5cdbb96ed4.jpeg"/>
+</a>
+</div>
+<div class="ipsDataItem_main">
+<div class="ipsContained ipsType_break"><a class="ipsType_medium ipsTruncate ipsTruncate_line" href="https://olympus-entertainment.com/blogs/entry/194-altis-life-update-2021-09-08-september-content-update/?do=getLastComment" title="View the entry ">Altis Life Update - 2021-09-08 - September Content Update</a></div>
+<span class="ipsType_blendLinks ipsType_light ipsType_medium ipsType_break ipsContained">By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/2282-fraali/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/2282-fraali/" title="Go to Fraali's profile"><span ;="" class="shake-opacity" style="font-weight: bold;  background-image: url(https://i.imgur.com/PNTkery.gif);  color: #54d1a1;">Fraali</span></a> in <a class="ipsType_blendLinks ipsTruncate ipsTruncate_line" href="https://olympus-entertainment.com/blogs/blog/1-altis-life-development/">Altis Life Development</a></span>
+<span class="ipsType_medium ipsType_reset"><i class="fa fa-comment"></i> 18</span>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsWidgetHide ipsHide ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_blog_entryFeed_0myg7zayy" data-blocktitle="Blog Entry Feed" data-controller="core.front.widgets.block"></li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_forums_topicFeed_p7ynzbppz" data-blocktitle="Topic Feed" data-controller="core.front.widgets.block">
+<h3 class="ipsWidget_title ipsType_reset">Important Posts</h3>
+<div class="ipsPad_half ipsWidget_inner">
+<ul class="ipsDataList ipsDataList_reducedSpacing">
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/6357-winters/?do=hovercard" href="https://olympus-entertainment.com/profile/6357-winters/" title="Go to Winters's profile">
+<img alt="Winters" src="https://olympus-entertainment.com/uploads/monthly_2020_11/imported-photo-6357.thumb.jpeg.e3ab55eee8452182b1e998452478ae1e.jpeg"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right" data-ipstooltip="" title="27 replies">27</div>
+<div class="ipsType_break ipsContained">
+<span><span class="ipsBadge ipsBadge_icon ipsBadge_small ipsBadge_positive" data-ipstooltip="" title="Featured"><i class="fa fa-star"></i></span></span>
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40909-apd-handbook-update-092221/" title="View the topic APD Handbook Update 09/22/21">APD Handbook Update 09/22/21</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/6357-winters/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/6357-winters/" title="Go to Winters's profile"><span style="color:#2e81fe;font-weight:bold">Winters</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="4 dy" datetime="2021-09-23T01:25:07Z" title="09/23/2021 01:25  AM">Thursday at 01:25 AM</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/75-updates-announcements/">Updates &amp; Announcements</a></span>
+</p>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_forums_topicFeed_gokc7zjx0" data-blocktitle="Topic Feed" data-controller="core.front.widgets.block">
+<h3 class="ipsWidget_title ipsType_reset">Topics</h3>
+<div class="ipsPad_half ipsWidget_inner">
+<ul class="ipsDataList ipsDataList_reducedSpacing">
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile">
+<img alt="Chase-" src="https://olympus-entertainment.com/uploads/monthly_2021_03/ezgif.com-gif-maker.thumb.gif.7b8ed000397c714b86f90059f7144506.gif"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipstooltip="" title="0 replies">0</div>
+<div class="ipsType_break ipsContained">
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40942-new-world-hype-thread/" title="View the topic New World Hype Thread">New World Hype Thread</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/44873-chase/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/44873-chase/" title="Go to Chase-'s profile"><span style="color:#3a9cfe">Chase-</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="1 hr" datetime="2021-09-28T00:00:52Z" title="09/28/2021 12:00  AM">1 hour ago</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/38-general-chit-chat/">General Chit-Chat</a></span>
+</p>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47200-cammya/?do=hovercard" href="https://olympus-entertainment.com/profile/47200-cammya/" title="Go to CammyA's profile">
+<img alt="CammyA" src="https://olympus-entertainment.com/uploads/monthly_2021_09/754988003_tunknown(1).thumb.png.fbfdd3fff4d3d39de57d1bf1cfda35f3.png"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right" data-ipstooltip="" title="4 replies">4</div>
+<div class="ipsType_break ipsContained">
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40933-wtb-tasers/" title="View the topic WTB Tasers">WTB Tasers</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/47200-cammya/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/47200-cammya/" title="Go to CammyA's profile"><span style="color:#3a9cfe">CammyA</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="1 dy" datetime="2021-09-26T02:58:16Z" title="09/26/2021 02:58  AM">Sunday at 02:58 AM</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/136-marketplace/">Marketplace</a></span>
+</p>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/35553-olympus-mascot/?do=hovercard" href="https://olympus-entertainment.com/profile/35553-olympus-mascot/" title="Go to olympus mascot's profile">
+<img alt="olympus mascot" src="https://olympus-entertainment.com/uploads/monthly_2020_11/be6ee512a4201e7250fd35c34a8876b9d308a4a3_full.thumb.jpg.935ffd59fa90aff665aa5fe016d42da5.jpg"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right" data-ipstooltip="" title="3 replies">3</div>
+<div class="ipsType_break ipsContained">
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40931-very-important-very-official-olympus-announcement/" title="View the topic VERY IMPORTANT VERY OFFICIAL OLYMPUS ANNOUNCEMENT">VERY IMPORTANT VERY OFFICIAL OLYMPUS ANNOUNCEMENT</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/35553-olympus-mascot/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/35553-olympus-mascot/" title="Go to olympus mascot's profile"><span style="color:gold;font-weight:bold">olympus mascot</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="2 dy" datetime="2021-09-25T23:20:36Z" title="09/25/2021 11:20  PM">Saturday at 11:20 PM</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/38-general-chit-chat/">General Chit-Chat</a></span>
+</p>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/36728-tally/?do=hovercard" href="https://olympus-entertainment.com/profile/36728-tally/" title="Go to Tally's profile">
+<img alt="Tally" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c497%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right" data-ipstooltip="" title="11 replies">11</div>
+<div class="ipsType_break ipsContained">
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40930-a-guide-for-everyone-that-hates-silla/" title="View the topic A guide for everyone that hates Silla">A guide for everyone that hates Silla</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/36728-tally/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/36728-tally/" title="Go to Tally's profile"><span>Tally</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="2 dy" datetime="2021-09-25T21:45:04Z" title="09/25/2021 09:45  PM">Saturday at 09:45 PM</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/38-general-chit-chat/">General Chit-Chat</a></span>
+</p>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/13379-sargent/?do=hovercard" href="https://olympus-entertainment.com/profile/13379-sargent/" title="Go to Sargent's profile">
+<img alt="Sargent" src="https://olympus-entertainment.com/uploads/monthly_2020_09/imported-photo-13379.thumb.jpeg.a0881f21ed42a6c6f916953228d6ca63.jpeg"/>
+</a>
+</div>
+<div class="ipsDataItem_main cWidgetComments">
+<div class="ipsCommentCount ipsPos_right" data-ipstooltip="" title="5 replies">5</div>
+<div class="ipsType_break ipsContained">
+<a class="ipsDataItem_title" href="https://olympus-entertainment.com/topic/40928-wts-stuff/" title="View the topic WTS stuff">WTS stuff</a>
+</div>
+<p class="ipsType_reset ipsType_medium ipsType_blendLinks ipsContained">
+<span>By
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/13379-sargent/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/13379-sargent/" title="Go to Sargent's profile"><span>Sargent</span></a></span><br/>
+<span class="ipsType_light">Started <time data-short="2 dy" datetime="2021-09-25T16:36:59Z" title="09/25/2021 04:36  PM">Saturday at 04:36 PM</time></span>
+<br/><span><span>in:</span> <a href="https://olympus-entertainment.com/forum/136-marketplace/">Marketplace</a></span>
+</p>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="plugin_27_bimStatusWidget_plidms5kz" data-blocktitle="Status Updates" data-controller="core.front.widgets.block">
+<div class="statusWidgetContainer" data-controller="plugins.bim.statusUpdatesWidget" data-widgetkey="plidms5kz">
+<h3 class="ipsType_reset ipsWidget_title">
+Status Updates
+<ul class="ipsList_reset ipsList_inline ipsPos_right">
+<li>
+<a class="ipsType_blendLinks" data-ipsmenu="" data-ipsmenu-closeonclick="false" data-role="feedMenu" href="#statusMenu_plidms5kz_menu" id="statusMenu_plidms5kz" title="Options">
+<i class="fa fa-cog"></i>
+</a>
+<div class="ipsMenu ipsMenu_normal ipsHide" id="statusMenu_plidms5kz_menu">
+<div class="ipsMenu_headerBar">
+<h4 class="ipsType_sectionHead">Options</h4>
+</div>
+<div class="ipsPadding:half" data-role="feedSettings">
+<form accept-charset="utf-8" action="https://olympus-entertainment.com/" class="ipsForm ipsForm_vertical" data-ipsform="" enctype="multipart/form-data" method="post">
+<input name="status_conf_plidms5kz_submitted" type="hidden" value="1"/>
+<input name="csrfKey" type="hidden" value="d7631190a4581f5ab3681799e39b05df"/>
+<input name="MAX_FILE_SIZE" type="hidden" value="15728640"/>
+<input name="plupload" type="hidden" value="3492025ae377ec99e9818fab7377bac1"/>
+<ul class="ipsForm">
+<li class="ipsFieldRow ipsClearfix" id="status_conf_plidms5kz_status_rich_text1">
+<label class="ipsFieldRow_label" for="status_rich_text1">
+<span>Rich text</span>
+</label>
+<div class="ipsFieldRow_content">
+<input name="status_rich_text1" type="hidden" value="0"/>
+<input aria-checked="true" checked="" data-ipstoggle="" data-toggle-id="status_rich_text1" id="check_status_rich_text1" name="status_rich_text1_checkbox" type="checkbox" value="1"/>
+</div>
+</li>
+<li class="ipsFieldRow ipsClearfix" id="status_conf_plidms5kz_status_avatar1">
+<label class="ipsFieldRow_label" for="status_avatar1">
+<span>Member's photo</span>
+</label>
+<div class="ipsFieldRow_content">
+<input name="status_avatar1" type="hidden" value="0"/>
+<input aria-checked="true" checked="" data-ipstoggle="" data-toggle-id="status_avatar1" id="check_status_avatar1" name="status_avatar1_checkbox" type="checkbox" value="1"/>
+</div>
+</li>
+<li class="ipsFieldRow ipsClearfix" id="status_conf_plidms5kz_status_by">
+<label class="ipsFieldRow_label" for="elInput_status_by">
+<span>Member</span>
+</label>
+<div class="ipsFieldRow_content" data-controller="core.global.core.optionalAutocomplete">
+<div>
+<textarea class="" data-ipsautocomplete="" data-ipsautocomplete-commatrigger="false" data-ipsautocomplete-datasource="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=ajax&amp;do=findMember" data-ipsautocomplete-disallowedcharacters="[]" data-ipsautocomplete-lang="mem_optional" data-ipsautocomplete-maxitems="1" data-ipsautocomplete-minajaxlength="3" data-ipsautocomplete-queryparam="input" data-ipsautocomplete-resultitemtemplate="core.autocomplete.memberItem" data-ipsautocomplete-unique="" id="elInput_status_by" name="status_by"></textarea>
+</div>
+</div>
+</li>
+<li class="ipsFieldRow">
+<div class="ipsFieldRow_content">
+<button accesskey="s" class="ipsButton ipsButton_primary" role="button" tabindex="2" type="submit">Save</button>
+</div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</li>
+</ul>
+</h3>
+<div class="ipsWidget_inner bimStatusUpdatesWidget hideUpload">
+<ul class="ipsDataList" data-role="statusFeed">
+<li class="ipsDataItem bimStatus_70997">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/9190-scream/?do=hovercard" href="https://olympus-entertainment.com/profile/9190-scream/" title="Go to ScreaM's profile">
+<img alt="ScreaM" src="https://olympus-entertainment.com/uploads/monthly_2020_02/imported-photo-9190.thumb.jpeg.7f375dc073fed964389b697bfa9237af.jpeg"/>
+</a>
+</div>
+<div class="ipsDataItem_main ipsType_medium ipsType_break">
+<p class="ipsType_medium ipsType_reset">
+<span class="ipsPos_right ipsType_light ipsType_small">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/profile/9190-scream/?status=70997&amp;type=status"><span class="ipsType_light"><i class="fa fa-clock-o"></i> <time data-short="2 hr" datetime="2021-09-27T23:08:41Z" title="09/27/2021 11:08  PM">2 hours ago</time></span></a>
+</span>
+<strong>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/9190-scream/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/9190-scream/" title="Go to ScreaM's profile"><span>ScreaM</span></a></strong>
+</p>
+<div class="statusContained" data-controller="core.front.core.lightboxedImages" data-ipslazyload="" data-role="statusContent">
+<div class="ipsType_richText statusContent" data-ipstruncate="" data-ipstruncate-size="3 lines" data-ipstruncate-type="hide">
+<p>
+world series of poker in 4 days <img alt="We Ready Conor Mcgregor GIF by UFC" data-ratio="55.40" src="https://media3.giphy.com/media/1r8SMj9uswgjFHFNmx/200.gif" title="We Ready Conor Mcgregor GIF by UFC" width="361"/></p>
+<div class="bimStatus_readLess ipsCursor_pointer ipsHide" data-action="readLess">
+<a href="#">Read less  <i class="fa fa-caret-up"></i></a>
+</div>
+</div>
+</div>
+<div class="ipsItemControls">
+<div class="ipsItemControls_right ipsClearfix" data-controller="core.front.core.reaction">
+<div class="ipsReact ipsPos_right">
+<div class="ipsReact_blurb" data-role="reactionBlurb">
+<ul class="ipsReact_reactions">
+<li class="ipsReact_reactCount">
+<span data-ipstooltip="" title="BlessUp">
+<span>
+<img alt="BlessUp" loading="lazy" src="https://olympus-entertainment.com/uploads/reactions/1f64f.png"/>
+</span>
+<span>
+2
+</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<ul class="ipsComment_controls ipsClearfix ipsItemControls_left statusTools">
+<li>
+<a class="ipsType_light" data-ipsdialog="" data-ipsdialog-forcereload="true" data-ipsdialog-size="medium" href="https://olympus-entertainment.com/profile/9190-scream/?status=70997&amp;type=status&amp;do=bimStatusReplies" id="status_70997" title="View comments">
+<span class="ipsResponsive_hidePhone hideInSidebar"><i class="fa fa-comments-o ipsType_medium"></i></span> 0 replies
+</a>
+</li>
+<li>
+<a class="ipsType_light" data-ipsmenu="" data-ipsmenu-activeclass="ipsFaded_cancel" href="#elStatus_70997_menu" id="elStatus_70997">
+<i class="fa fa-cog ipsType_medium"></i> <span class="ipsResponsive_hidePhone hideInSidebar">Options <i class="fa fa-caret-down"></i></span>
+</a>
+<ul class="ipsMenu ipsMenu_narrow ipsHide" id="elStatus_70997_menu">
+<li class="ipsMenu_item">
+<a data-action="reportStatus" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Report" href="https://olympus-entertainment.com/profile/9190-scream/?status=70997&amp;type=status&amp;do=report" title="Report this content">Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ipsDataItem bimStatus_70996">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/22235-maxg/?do=hovercard" href="https://olympus-entertainment.com/profile/22235-maxg/" title="Go to maxg's profile">
+<img alt="maxg" src="https://olympus-entertainment.com/uploads/monthly_2021_08/aa8d4679b3b39e91b17cb4675ec0d60d--design-logo-gfx-design.thumb.jpg.1387c96fa4ba2b36c131f2a7e37fbcf8.jpg"/>
+</a>
+</div>
+<div class="ipsDataItem_main ipsType_medium ipsType_break">
+<p class="ipsType_medium ipsType_reset">
+<span class="ipsPos_right ipsType_light ipsType_small">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/profile/22235-maxg/?status=70996&amp;type=status"><span class="ipsType_light"><i class="fa fa-clock-o"></i> <time data-short="2 hr" datetime="2021-09-27T22:56:52Z" title="09/27/2021 10:56  PM">2 hours ago</time></span></a>
+</span>
+<strong>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/22235-maxg/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/22235-maxg/" title="Go to maxg's profile"><span style="color:#e874ec;font-weight:bold;">maxg</span></a></strong>
+</p>
+<div class="statusContained" data-controller="core.front.core.lightboxedImages" data-ipslazyload="" data-role="statusContent">
+<div class="ipsType_richText statusContent" data-ipstruncate="" data-ipstruncate-size="3 lines" data-ipstruncate-type="hide">
+<p>
+Fuck you <a contenteditable="false" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/26-grandma-gary/?do=hovercard" data-mentionid="26" href="https://olympus-entertainment.com/profile/26-grandma-gary/" rel="">@ <span style="color:#FF0000;font-family:'Comic Sans MS', 'Comic Sans', cursive;font-weight:bold;background-image:url(&quot;%7B___base_url___%7D/uploads/sparkles/sparkle_brown.gif&quot;);">Grandma Gary</span> </a>
+</p>
+<div class="bimStatus_readLess ipsCursor_pointer ipsHide" data-action="readLess">
+<a href="#">Read less  <i class="fa fa-caret-up"></i></a>
+</div>
+</div>
+</div>
+<div class="ipsItemControls">
+<div class="ipsItemControls_right ipsClearfix" data-controller="core.front.core.reaction">
+<div class="ipsReact ipsPos_right">
+<div class="ipsReact_blurb" data-role="reactionBlurb">
+<ul class="ipsReact_reactions">
+<li class="ipsReact_reactCount">
+<span data-ipstooltip="" title="BlessUp">
+<span>
+<img alt="BlessUp" loading="lazy" src="https://olympus-entertainment.com/uploads/reactions/1f64f.png"/>
+</span>
+<span>
+1
+</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<ul class="ipsComment_controls ipsClearfix ipsItemControls_left statusTools">
+<li>
+<a class="ipsType_light" data-ipsdialog="" data-ipsdialog-forcereload="true" data-ipsdialog-size="medium" href="https://olympus-entertainment.com/profile/22235-maxg/?status=70996&amp;type=status&amp;do=bimStatusReplies" id="status_70996" title="View comments">
+<span class="ipsResponsive_hidePhone hideInSidebar"><i class="fa fa-comments-o ipsType_medium"></i></span> 0 replies
+</a>
+</li>
+<li>
+<a class="ipsType_light" data-ipsmenu="" data-ipsmenu-activeclass="ipsFaded_cancel" href="#elStatus_70996_menu" id="elStatus_70996">
+<i class="fa fa-cog ipsType_medium"></i> <span class="ipsResponsive_hidePhone hideInSidebar">Options <i class="fa fa-caret-down"></i></span>
+</a>
+<ul class="ipsMenu ipsMenu_narrow ipsHide" id="elStatus_70996_menu">
+<li class="ipsMenu_item">
+<a data-action="reportStatus" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Report" href="https://olympus-entertainment.com/profile/22235-maxg/?status=70996&amp;type=status&amp;do=report" title="Report this content">Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ipsDataItem bimStatus_70995">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/28877-knoble/?do=hovercard" href="https://olympus-entertainment.com/profile/28877-knoble/" title="Go to Knoble's profile">
+<img alt="Knoble" src="https://olympus-entertainment.com/uploads/monthly_2021_06/evaface.thumb.JPG.03142140cdd71798409d0c8ed2ff878a.JPG"/>
+</a>
+</div>
+<div class="ipsDataItem_main ipsType_medium ipsType_break">
+<p class="ipsType_medium ipsType_reset">
+<span class="ipsPos_right ipsType_light ipsType_small">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/profile/28877-knoble/?status=70995&amp;type=status"><span class="ipsType_light"><i class="fa fa-clock-o"></i> <time data-short="2 hr" datetime="2021-09-27T22:11:19Z" title="09/27/2021 10:11  PM">2 hours ago</time></span></a>
+</span>
+<strong>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/28877-knoble/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/28877-knoble/" title="Go to Knoble's profile"><span style="color:#e80;font-weight:bold;">Knoble</span></a></strong>
+</p>
+<div class="statusContained" data-controller="core.front.core.lightboxedImages" data-ipslazyload="" data-role="statusContent">
+<div class="ipsType_richText statusContent" data-ipstruncate="" data-ipstruncate-size="3 lines" data-ipstruncate-type="hide">
+<p>
+fuck you <a contenteditable="false" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/26-grandma-gary/?do=hovercard" data-mentionid="26" href="https://olympus-entertainment.com/profile/26-grandma-gary/" rel="">@ <span style="color:#FF0000;font-family:'Comic Sans MS', 'Comic Sans', cursive;font-weight:bold;background-image:url(&quot;%7B___base_url___%7D/uploads/sparkles/sparkle_brown.gif&quot;);">Grandma Gary</span> </a>
+</p>
+<div class="bimStatus_readLess ipsCursor_pointer ipsHide" data-action="readLess">
+<a href="#">Read less  <i class="fa fa-caret-up"></i></a>
+</div>
+</div>
+</div>
+<div class="ipsItemControls">
+<div class="ipsItemControls_right ipsClearfix" data-controller="core.front.core.reaction">
+<div class="ipsReact ipsPos_right">
+<div class="ipsReact_blurb" data-role="reactionBlurb">
+<ul class="ipsReact_reactions">
+<li class="ipsReact_reactCount">
+<span data-ipstooltip="" title="PogChamp">
+<span>
+<img alt="PogChamp" loading="lazy" src="https://olympus-entertainment.com/uploads/reactions/pogchamp12.png"/>
+</span>
+<span>
+1
+</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<ul class="ipsComment_controls ipsClearfix ipsItemControls_left statusTools">
+<li>
+<a class="ipsType_light" data-ipsdialog="" data-ipsdialog-forcereload="true" data-ipsdialog-size="medium" href="https://olympus-entertainment.com/profile/28877-knoble/?status=70995&amp;type=status&amp;do=bimStatusReplies" id="status_70995" title="View comments">
+<span class="ipsResponsive_hidePhone hideInSidebar"><i class="fa fa-comments-o ipsType_medium"></i></span> 3 replies
+</a>
+</li>
+<li>
+<a class="ipsType_light" data-ipsmenu="" data-ipsmenu-activeclass="ipsFaded_cancel" href="#elStatus_70995_menu" id="elStatus_70995">
+<i class="fa fa-cog ipsType_medium"></i> <span class="ipsResponsive_hidePhone hideInSidebar">Options <i class="fa fa-caret-down"></i></span>
+</a>
+<ul class="ipsMenu ipsMenu_narrow ipsHide" id="elStatus_70995_menu">
+<li class="ipsMenu_item">
+<a data-action="reportStatus" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Report" href="https://olympus-entertainment.com/profile/28877-knoble/?status=70995&amp;type=status&amp;do=report" title="Report this content">Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ipsDataItem bimStatus_70994">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/24175-edweirdo/?do=hovercard" href="https://olympus-entertainment.com/profile/24175-edweirdo/" title="Go to Edweirdo's profile">
+<img alt="Edweirdo" src="https://olympus-entertainment.com/uploads/monthly_2020_07/imported-photo-24175.thumb.jpeg.bd6a39cd8b411a12ac766942a026d6b4.jpeg"/>
+</a>
+</div>
+<div class="ipsDataItem_main ipsType_medium ipsType_break">
+<p class="ipsType_medium ipsType_reset">
+<span class="ipsPos_right ipsType_light ipsType_small">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/profile/24175-edweirdo/?status=70994&amp;type=status"><span class="ipsType_light"><i class="fa fa-clock-o"></i> <time data-short="3 hr" datetime="2021-09-27T21:57:41Z" title="09/27/2021 09:57  PM">3 hours ago</time></span></a>
+</span>
+<strong>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/24175-edweirdo/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/24175-edweirdo/" title="Go to Edweirdo's profile"><span style="color:gold;font-weight:bold">Edweirdo</span></a></strong>
+</p>
+<div class="statusContained" data-controller="core.front.core.lightboxedImages" data-ipslazyload="" data-role="statusContent">
+<div class="ipsType_richText statusContent" data-ipstruncate="" data-ipstruncate-size="3 lines" data-ipstruncate-type="hide">
+<p>
+What are the good FiveM servers?
+</p>
+<div class="bimStatus_readLess ipsCursor_pointer ipsHide" data-action="readLess">
+<a href="#">Read less  <i class="fa fa-caret-up"></i></a>
+</div>
+</div>
+</div>
+<div class="ipsItemControls">
+<ul class="ipsComment_controls ipsClearfix ipsItemControls_left statusTools">
+<li>
+<a class="ipsType_light" data-ipsdialog="" data-ipsdialog-forcereload="true" data-ipsdialog-size="medium" href="https://olympus-entertainment.com/profile/24175-edweirdo/?status=70994&amp;type=status&amp;do=bimStatusReplies" id="status_70994" title="View comments">
+<span class="ipsResponsive_hidePhone hideInSidebar"><i class="fa fa-comments-o ipsType_medium"></i></span> 0 replies
+</a>
+</li>
+<li>
+<a class="ipsType_light" data-ipsmenu="" data-ipsmenu-activeclass="ipsFaded_cancel" href="#elStatus_70994_menu" id="elStatus_70994">
+<i class="fa fa-cog ipsType_medium"></i> <span class="ipsResponsive_hidePhone hideInSidebar">Options <i class="fa fa-caret-down"></i></span>
+</a>
+<ul class="ipsMenu ipsMenu_narrow ipsHide" id="elStatus_70994_menu">
+<li class="ipsMenu_item">
+<a data-action="reportStatus" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Report" href="https://olympus-entertainment.com/profile/24175-edweirdo/?status=70994&amp;type=status&amp;do=report" title="Report this content">Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ipsDataItem bimStatus_70993">
+<div class="ipsDataItem_icon ipsPos_top">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/11603-falcon/?do=hovercard" href="https://olympus-entertainment.com/profile/11603-falcon/" title="Go to falcon's profile">
+<img alt="falcon" src="https://olympus-entertainment.com/uploads/monthly_2019_10/Untitled.png.f957a7a5ec64e9d6e9e6a5f072f0980a.thumb.png.4433717b72191e410675fb3535ec755a.png"/>
+</a>
+</div>
+<div class="ipsDataItem_main ipsType_medium ipsType_break">
+<p class="ipsType_medium ipsType_reset">
+<span class="ipsPos_right ipsType_light ipsType_small">
+<a class="ipsType_blendLinks" href="https://olympus-entertainment.com/profile/11603-falcon/?status=70993&amp;type=status"><span class="ipsType_light"><i class="fa fa-clock-o"></i> <time data-short="3 hr" datetime="2021-09-27T21:17:30Z" title="09/27/2021 09:17  PM">3 hours ago</time></span></a>
+</span>
+<strong>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/11603-falcon/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/11603-falcon/" title="Go to falcon's profile"><span style="color:#e874ec;font-weight:bold;">falcon</span></a></strong>
+</p>
+<div class="statusContained" data-controller="core.front.core.lightboxedImages" data-ipslazyload="" data-role="statusContent">
+<div class="ipsType_richText statusContent" data-ipstruncate="" data-ipstruncate-size="3 lines" data-ipstruncate-type="hide">
+<p>
+<img alt="👻" class="ipsEmoji" src="https://twemoji.maxcdn.com/2/72x72/1f47b.png"/></p>
+<div class="bimStatus_readLess ipsCursor_pointer ipsHide" data-action="readLess">
+<a href="#">Read less  <i class="fa fa-caret-up"></i></a>
+</div>
+</div>
+</div>
+<div class="ipsItemControls">
+<ul class="ipsComment_controls ipsClearfix ipsItemControls_left statusTools">
+<li>
+<a class="ipsType_light" data-ipsdialog="" data-ipsdialog-forcereload="true" data-ipsdialog-size="medium" href="https://olympus-entertainment.com/profile/11603-falcon/?status=70993&amp;type=status&amp;do=bimStatusReplies" id="status_70993" title="View comments">
+<span class="ipsResponsive_hidePhone hideInSidebar"><i class="fa fa-comments-o ipsType_medium"></i></span> 6 replies
+</a>
+</li>
+<li>
+<a class="ipsType_light" data-ipsmenu="" data-ipsmenu-activeclass="ipsFaded_cancel" href="#elStatus_70993_menu" id="elStatus_70993">
+<i class="fa fa-cog ipsType_medium"></i> <span class="ipsResponsive_hidePhone hideInSidebar">Options <i class="fa fa-caret-down"></i></span>
+</a>
+<ul class="ipsMenu ipsMenu_narrow ipsHide" id="elStatus_70993_menu">
+<li class="ipsMenu_item">
+<a data-action="reportStatus" data-ipsdialog="" data-ipsdialog-size="medium" data-ipsdialog-title="Report" href="https://olympus-entertainment.com/profile/11603-falcon/?status=70993&amp;type=status&amp;do=report" title="Report this content">Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<div class="ipsButtonBar ipsAreaBackground_light ipsPadding:half ipsClearfix ipsClear">
+<ul class="ipsPagination" data-ipspagination="" data-ipspagination-pageparam="bimsuPage" data-ipspagination-pages="11930" data-ipspagination-perpage="5" data-ipspagination-seopagination="false" data-pages="11930" id="elPagination_2e397752f239a1460d54303286e4645c_1190288945">
+<li class="ipsPagination_first ipsPagination_inactive"><a data-ipstooltip="" data-page="1" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df" rel="first" title="First page"><i class="fa fa-angle-double-left"></i></a></li>
+<li class="ipsPagination_prev ipsPagination_inactive"><a data-ipstooltip="" data-page="0" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df" rel="prev" title="Previous page">Prev</a></li>
+<li class="ipsPagination_page ipsPagination_active"><a data-page="1" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df">1</a></li>
+<li class="ipsPagination_page"><a data-page="2" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=2">2</a></li>
+<li class="ipsPagination_page"><a data-page="3" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=3">3</a></li>
+<li class="ipsPagination_page"><a data-page="4" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=4">4</a></li>
+<li class="ipsPagination_page"><a data-page="5" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=5">5</a></li>
+<li class="ipsPagination_page"><a data-page="6" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=6">6</a></li>
+<li class="ipsPagination_next"><a data-ipstooltip="" data-page="2" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=2" rel="next" title="Next page">Next</a></li>
+<li class="ipsPagination_last"><a data-ipstooltip="" data-page="11930" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df&amp;bimsuPage=11930" rel="last" title="Last page"><i class="fa fa-angle-double-right"></i></a></li>
+<li class="ipsPagination_pageJump">
+<a data-ipsmenu="" data-ipsmenu-appendto="#elPagination_2e397752f239a1460d54303286e4645c_1190288945" data-ipsmenu-closeonclick="false" href="#" id="elPagination_2e397752f239a1460d54303286e4645c_1190288945_jump">Page 1 of 11930  <i class="fa fa-caret-down"></i></a>
+<div class="ipsMenu ipsMenu_narrow ipsPadding ipsHide" id="elPagination_2e397752f239a1460d54303286e4645c_1190288945_jump_menu">
+<form accept-charset="utf-8" action="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=plugins&amp;do=bimStatusFeed&amp;widgetKey=plidms5kz&amp;csrfKey=d7631190a4581f5ab3681799e39b05df" data-role="pageJump" method="post">
+<ul class="ipsForm ipsForm_horizontal">
+<li class="ipsFieldRow">
+<input class="ipsField_fullWidth" max="11930" min="1" name="bimsuPage" placeholder="Page number" type="number"/>
+</li>
+<li class="ipsFieldRow ipsFieldRow_fullWidth">
+<input class="ipsButton_fullWidth ipsButton ipsButton_verySmall ipsButton_primary" type="submit" value="Go"/>
+</li>
+</ul>
+</form>
+</div>
+</li>
+</ul>
+</div>
+</ul>
+</div>
+</div></li>
+<li class="ipsWidget ipsWidget_vertical ipsBox" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_calendar_todaysBirthdays_4a8e5m5e8" data-blocktitle="Today's Birthdays" data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Today's Birthdays</h3>
+<div class="ipsWidget_inner ipsPad_half">
+<ol class="ipsDataList ipsDataList_reducedSpacing">
+<li class="ipsDataItem">
+<div class="ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/32405-%E2%80%A2%C3%B0%C5%A1%E2%80%A2ogrussell/?do=hovercard" href="https://olympus-entertainment.com/profile/32405-%E2%80%A2%C3%B0%C5%A1%E2%80%A2ogrussell/" title="Go to •ÐŠ•.OG.Russell's profile">
+<img alt="•ÐŠ•.OG.Russell" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462bb%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3E%C3%90%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+<div>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/32405-%E2%80%A2%C3%B0%C5%A1%E2%80%A2ogrussell/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/32405-%E2%80%A2%C3%B0%C5%A1%E2%80%A2ogrussell/" title="Go to •ÐŠ•.OG.Russell's profile"><span>•ÐŠ•.OG.Russell</span></a>
+<br/><span class="ipsType_light">(36 years old)</span>
+</div>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/5637-3-rip/?do=hovercard" href="https://olympus-entertainment.com/profile/5637-3-rip/" title="Go to 3 Rip's profile">
+<img alt="3 Rip" src="https://olympus-entertainment.com/uploads/monthly_2019_09/mk18.thumb.png.18114ae943db7471b429360c6bdd1236.png"/>
+</a>
+<div>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/5637-3-rip/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/5637-3-rip/" title="Go to 3 Rip's profile"><span>3 Rip</span></a>
+<br/><span class="ipsType_light">(22 years old)</span>
+</div>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/20089-andre-breezy/?do=hovercard" href="https://olympus-entertainment.com/profile/20089-andre-breezy/" title="Go to Andre Breezy's profile">
+<img alt="Andre Breezy" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46263%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+<div>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/20089-andre-breezy/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/20089-andre-breezy/" title="Go to Andre Breezy's profile"><span>Andre Breezy</span></a>
+<br/><span class="ipsType_light">(26 years old)</span>
+</div>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/1859-knightlyblu/?do=hovercard" href="https://olympus-entertainment.com/profile/1859-knightlyblu/" title="Go to KnightlyBlu's profile">
+<img alt="KnightlyBlu" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2398c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+<div>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/1859-knightlyblu/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/1859-knightlyblu/" title="Go to KnightlyBlu's profile"><span>KnightlyBlu</span></a>
+<br/><span class="ipsType_light">(31 years old)</span>
+</div>
+</div>
+</li>
+<li class="ipsDataItem">
+<div class="ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny ipsClearfix">
+<a class="ipsUserPhoto ipsUserPhoto_tiny" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/3753-tdog/?do=hovercard" href="https://olympus-entertainment.com/profile/3753-tdog/" title="Go to Tdog's profile">
+<img alt="Tdog" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47262%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"/>
+</a>
+<div>
+<a class="ipsType_break" data-ipshover="" data-ipshover-target="https://olympus-entertainment.com/profile/3753-tdog/?do=hovercard&amp;referrer=https%253A%252F%252Folympus-entertainment.com%252F" data-ipshover-width="370" href="https://olympus-entertainment.com/profile/3753-tdog/" title="Go to Tdog's profile"><span>Tdog</span></a>
+<br/><span class="ipsType_light">(22 years old)</span>
+</div>
+</div>
+</li>
+</ol>
+</div>
+<div class="ipsWidget_inner ipsPad_half ipsWidget_bottomBar">
+<div class="ipsType_center ipsAreaBackground_light ipsPad_half">
+<a data-ipsdialog="" data-ipsdialog-size="narrow" data-ipsdialog-title="6 birthdays today" href="https://olympus-entertainment.com/calendar/2021/9/28/?show=birthdays">View all</a>
+</div>
+</div>
+</li>
+<li class="ipsWidget ipsWidget_vertical ipsBox ipsResponsive_block" data-blockconfig="true" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-blockid="app_cms_Blocks_u3z39rjtq" data-blocktitle="Custom Blocks" data-controller="core.front.widgets.block">
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-3508633796997026" data-ad-format="auto" data-ad-slot="6037804551" data-full-width-responsive="true" style="display:block"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<nav class="ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover">
+<ul class="ipsList_inline ipsPos_right">
+<li class="ipsHide">
+<a class="ipsType_light" data-action="defaultStream" href="https://olympus-entertainment.com/discover/"><i aria-hidden="true" class="fa fa-newspaper-o"></i> <span>All Activity</span></a>
+</li>
+</ul>
+<ul data-role="breadcrumbList">
+<li>
+<a href="https://olympus-entertainment.com/" title="Home">
+<span>Home</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<a class="ipsFlex ipsFlex-jc:center ipsFlex-ai:center" id="aXenBackTopBottom"><i class="fas fa-chevron-up"></i></a>
+</main>
+<footer class="ipsClearfix" id="ipsLayout_footer"><div class="ipsLayout_container ipsFlex ipsFlex-fw:nowrap ipsFlex-jc:center ipsFlex-ai:center">
+<ul class="ipsList_inline ipsType_center" id="elFooterLinks">
+<li>
+<a data-ipsmenu="" data-ipsmenu-above="" href="#elNavTheme_menu" id="elNavTheme">Theme <i class="fa fa-caret-down"></i></a>
+<ul class="ipsMenu ipsMenu_selectable ipsHide" id="elNavTheme_menu">
+<li class="ipsMenu_item ipsMenu_itemChecked">
+<form action="//olympus-entertainment.com/theme/?csrfKey=d7631190a4581f5ab3681799e39b05df" method="post">
+<input name="ref" type="hidden" value="aHR0cHM6Ly9vbHltcHVzLWVudGVydGFpbm1lbnQuY29tLw=="/>
+<button class="ipsButton ipsButton_link ipsButton_link_secondary" name="id" type="submit" value="39">Olympus Dark Theme - New (Default)</button>
+</form>
+</li>
+<li class="ipsMenu_item">
+<form action="//olympus-entertainment.com/theme/?csrfKey=d7631190a4581f5ab3681799e39b05df" method="post">
+<input name="ref" type="hidden" value="aHR0cHM6Ly9vbHltcHVzLWVudGVydGFpbm1lbnQuY29tLw=="/>
+<button class="ipsButton ipsButton_link ipsButton_link_secondary" name="id" type="submit" value="26">Dispersion - Olympus Version </button>
+</form>
+</li>
+</ul>
+</li>
+<li><a href="https://olympus-entertainment.com/privacy/">Privacy Policy</a></li>
+<li><a data-ipsdialog="" data-ipsdialog-flashmessage="Thanks, your message has been sent to the administrators." data-ipsdialog-remotesubmit="" data-ipsdialog-title="Contact Us" href="https://olympus-entertainment.com/contact/" rel="nofollow">Contact Us</a></li>
+</ul>
+<p id="elCopyright">
+<span id="elCopyright_userLine">Olympus Entertainment</span>
+<a href="https://www.invisioncommunity.com/" rel="nofollow" title="Invision Community">Powered by Invision Community</a>
+</p>
+</div>
+</footer>
+<div class="ipsPad_half ipsJS_hide" data-controller="core.front.core.guestTerms" data-role="guestTermsBar" id="elGuestTerms">
+<div class="ipsLayout_container">
+<div class="ipsGrid ipsGrid_collapsePhone">
+<div class="ipsGrid_span10">
+<h2 class="ipsType_sectionHead">Important Information</h2>
+<p class="ipsType_reset ipsType_medium cGuestTerms_contents">By using this site, you agree to our <a href="https://olympus-entertainment.com/terms/">Terms of Use</a> and our <a href="https://olympus-entertainment.com/privacy/">Privacy Policy</a>.</p>
+</div>
+<div class="ipsGrid_span2">
+<a class="ipsButton ipsButton_veryLight ipsButton_large ipsButton_fullWidth" data-action="dismissTerms" href="https://olympus-entertainment.com/index.php?app=core&amp;module=system&amp;controller=terms&amp;do=dismiss&amp;ref=aHR0cHM6Ly9vbHltcHVzLWVudGVydGFpbm1lbnQuY29tLw==&amp;csrfKey=d7631190a4581f5ab3681799e39b05df" rel="nofollow"><i class="fa fa-check"></i>  I accept</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//olympus-entertainment.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//olympus-entertainment.com/",
+			jsURL: "//olympus-entertainment.com/applications/core/interface/js/js.php",
+			csrfKey: "d7631190a4581f5ab3681799e39b05df",
+			antiCache: "e313ada8d31631367636",
+			jsAntiCache: "e313ada8d31632437275",
+			disableNotificationSounds: true,
+			useCompiledFiles: true,
+			links_external: false,
+			memberID: 0,
+			lazyLoadEnabled: false,
+			blankImg: "//olympus-entertainment.com/applications/core/interface/js/spacer.png",
+			analyticsProvider: "ga",
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			pushPublicKey: "BEAHqFQonZ-gcnulkbiIcLIHLfuOQELG5_1dUjWnIGxfD_PsMxY98Y0Wz2r__156nuLXXx5J0SrzrviX5Qz3p2o",
+			relativeDates: true
+		};
+		
+		
+		
+		
+			ipsSettings['maxImageDimensions'] = {
+				width: 1000,
+				height: 750
+			};
+		
+		
+	</script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_global/root_library.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_global/root_js_lang_1.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_global/root_framework.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_core/global_global_core.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_core/plugins_plugins.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_axenserverlist/front_front_axenserverlist.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_global/root_front.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_core/front_front_core.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_gallery/front_front_browse.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_forums/front_front_forum.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script data-ips="" src="https://olympus-entertainment.com/uploads/javascript_global/root_map.js?v=e313ada8d31632437275" type="text/javascript"></script>
+<script type="text/javascript">
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"black"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"twemoji"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('1621483108') );
+		
+			ips.setSetting( 'image_jpg_quality', jQuery.parseJSON('75') );
+		
+			ips.setSetting( 'cloud2', jQuery.parseJSON('false') );
+		
+		
+	</script>
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://olympus-entertainment.com/#organization",
+    "@type": "WebSite",
+    "@id": "https://olympus-entertainment.com/#website",
+    "mainEntityOfPage": "https://olympus-entertainment.com/",
+    "name": "Olympus Entertainment",
+    "url": "https://olympus-entertainment.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://olympus-entertainment.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://olympus-entertainment.com/#organization",
+    "mainEntityOfPage": "https://olympus-entertainment.com/",
+    "name": "Olympus Entertainment",
+    "url": "https://olympus-entertainment.com/",
+    "logo": {
+        "@type": "ImageObject",
+        "@id": "https://olympus-entertainment.com/#logo",
+        "url": "https://olympus-entertainment.com/uploads/monthly_2021_03/imageproxy.png.7245bb8cf3910eddae58b681c3dafe16.png.e5afe89701223834a58449debc0098ed.png"
+    }
+}	
+</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "https://olympus-entertainment.com/contact/"
+}	
+</script>
+<script src="https://olympus-entertainment.com/uploads/set_resources_39/daf308658e1b8369aceccf0233aee88c_swiper-bundle.min.js"></script>
+<script>
+window.onload = () => {
+	const scrollTopBottom = $("#aXenBackTopBottom");
+	$(window).scroll(() => {
+		let topPos = $(this).scrollTop();
+		if (topPos > 150) {
+			$(scrollTopBottom).css("opacity", "1");
+		} else $(scrollTopBottom).css("opacity", "0");
+	});
+	let scrollAnimation = () => {
+		$('html, body').animate({
+      	scrollTop: 0
+    	}, 800);
+	};
+	$(scrollTopBottom).click(scrollAnimation);
+}
+
+
+	var swiper = new Swiper('.swiper-container', {
+    	
+			pagination: {
+				el: '.swiper-pagination',
+				
+    				dynamicBullets: true,
+      			
+      		},
+      	
+      	direction: 'horizontal',
+      	effect: 'slide',
+      	
+      		navigation: {
+        		nextEl: '.swiper-next',
+        		prevEl: '.swiper-prev',
+      		},
+      	
+      	
+      		autoplay: {
+        		delay: 4000,
+      			disableOnInteraction: true,
+      		},
+      	
+      	
+  			loop: true,
+    	
+      	
+      		keyboard: {
+        		enabled: true,
+      		},
+      	
+      	
+      		grabCursor: true,
+      	
+    	
+   	 		mousewheel: true,
+    	
+	});
+
+</script>
+<script src="https://olympus-entertainment.com/uploads/set_resources_39/daf308658e1b8369aceccf0233aee88c_jscolor.min.js"></script>
+<script>
+	const checkDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  
+  	const selectElements = {
+      dark: document.querySelectorAll('.aXenTopBar_theme'),
+      shepe: document.querySelectorAll('.aXenTopBar_shape'),
+      color: document.querySelector('#colorTheme'),
+      colorLi: document.querySelectorAll('.aXenTopBar_color'),
+      colorResetPC: document.querySelector('#aXenTopBar_colorResetPC'),
+      colorResetMobile: document.querySelector('#aXenTopBar_colorResetMobile'),
+      picture: document.querySelectorAll('.aXenTopBar_picture')
+    }
+    
+    const cookieName = {
+      shape: 'aXen_shape',
+      color: 'aXen_color',
+      picture: 'aXen_picture'
+    }
+   
+	const colorBackground = '.tee #ipsLayout_header nav, .tee .ipsType_sectionTitle, .tee .ipsItemStatus.ipsItemStatus_large, .tee #elWidgetControls, .tee .ipsApp .ipsButton_normal, .tee .ipsWidget.ipsWidget_primary, .tee .ipsComposeArea_editorPaste, .tee .ipsReact_unreact, .tee .ipsField_stackItem .ipsField_stackDelete, .tee .ipsAttachment_progress > span, .tee .ipsSelectTree_selected, .tee .ipsSideMenu_itemActive a, .tee a.ipsSideMenu_itemActive, .tee span.ipsSideMenu_itemActive, .tee .ipsSideMenu_withChecks .ipsSideMenu_item > input[type="checkbox"]:checked ~ a, .tee .ipsSideMenu_withChecks .ipsSideMenu_item > input[type="checkbox"]:checked ~ span, .tee .ipsSideMenu_withRadios .ipsSideMenu_item > input[type="radio"]:checked ~ a, .tee .ipsSideMenu_withRadios .ipsSideMenu_item > input[type="radio"]:checked ~ span, .tee .ipsAreaBackground_dark, .tee .ipsStepBar > .ipsStep.ipsStep_active::before, .tee .ipsStepBar > .ipsStep.ipsStep_active::after, .tee #ipsMultiQuoter, .tee .ipsPagination .ipsPagination_page.ipsPagination_active a, .tee .ui-datepicker-header, .tee .ipsRichEmbed .ipsRichEmbed_masthead, .tee .ipsEmbedded_image, .tee .ipsTable_sortable.ipsTable_sortableActive, .tee .ipsTable.ipsMatrix thead th, .tee .ipsApp .ipsButton_primary, .tee .ipsCustomInput input:active:not( :checked ):not( :disabled ) + span, .tee .ipsCustomInput input:active:checked:not( :disabled ) + span, .tee .ipsCustomInput input:checked + span, .tee .cContentItem_delete, .tee .ipsProgressBar.ipsProgressBar_animated .ipsProgressBar_progress, .tee .ipsProgressBar_progress, .tee .ipsTabs, .tee .ipsNavBar_secondary > li > a::after, .tee .ipsNavBar_primary ul[data-role="primaryNavBar"] > li > a::after, .tee .ipsStreamItem_time, .tee .ipsStreamItem_time, .tee .ipsStreamItem_terminator, .tee .ipsStream .ipsStreamItem_contentType, .tee .cWidgetStreamIcon, .tee .cAuthorPane_badge, .tee #aXenelMobileBreadcrumbFull, .tee .swiper-pagination-bullet-active, .tee .ipsToggle.ipsToggle_on, .tee .ipsUnreadBar:before, .tee .ipsUnreadBar:after, .tee ::selection, .tee ::-webkit-scrollbar-thumb, .tee .ipsScrollbar::-webkit-scrollbar-thumb, .tee .aXenTopics_cAuthorPane_icons li[data-role="posts"], .tee .ipsCommentCount';
+	const colorBackgroundImportant = '.tee .ipsStream_withTimeline .ipsStreamItem.ipsStreamItem_actionBlock:after';
+	const colorColor = '.tee .ipsItemStatus:not( .ipsItemStatus_large ), .tee a:hover, .tee .ipsApp .ipsButton_link, .tee .ipsApp .ipsButton_veryLight, .tee #elUserLink_menu a:hover:before, .tee #elCreateNew_menu a:hover:before, .tee ipsRating .ipsRating_mine .ipsRating_on .fa-star, .tee .ipsRating .ipsRating_hover .fa-star, .tee .cToken, .tee a[data-mentionid], .tee .ipsType_brandedLinks a, a.ipsType_brandedLink, .tee .aXenTopBar_color, .tee.aXenSquare .aXenTopBar_shape, .tee .ipsUnreadBar, .tee .aXenFooter div > h2 > span, .tee #ipsLayout_footer a:hover';
+	const colorBorder = '.tee .bimChatbox.skin_white #convoContent .ipsAutocompleteMenu_item:hover, .tee .bimChatbox.skin_white .mentionMe, .tee .ipsApp .chat_row.ipsDataItem_new, .tee hr.ipsHr.ipsHr_thick, .tee .ui-datepicker-header, .tee .ipsCommentUnreadSeperator, .tee .ipsCustomInput input:checked + span, .tee .ipsCommentCount, .tee .ipsStreamItem_bar hr.ipsHr, .tee [data-ipseditor]:focus-within, .tee .ipsAttachment_dropZone.ipsDragging, .tee .ipsComposeArea_dropZone.ipsDragging, .tee .ipsSelectTree_active.ipsSelectTree_bottom, .tee .ipsSelectTree_active.ipsSelectTree_top, .tee .ipsSelectTree_nodes, .tee .ipsApp .ipsToggle:focus, .tee .ipsApp .ipsCustomInput input:focus + span, .tee .ipsApp select:not( [multiple] ):focus, .tee .ipsApp textarea:focus, .tee .ipsApp input[type="text"]:focus, .tee .ipsApp input[type="password"]:focus, .tee .ipsApp input[type="datetime"]:focus, .tee .ipsApp input[type="datetime-local"]:focus, .tee .ipsApp input[type="date"]:focus, .tee .ipsApp input[type="month"]:focus, .tee .ipsApp input[type="time"]:focus, .tee .ipsApp input[type="week"]:focus, .tee .ipsApp input[type="number"]:focus, .tee .ipsApp input[type="email"]:focus, .tee .ipsApp input[type="url"]:focus, .tee .ipsApp input[type="search"]:focus, .tee .ipsApp input[type="tel"]:focus, .tee .ipsApp input[type="color"]:focus';
+  
+  
+	/* ===== Start functions ===== */
+	const enableDark = () => {
+  		document.querySelector('html').dataset.theme = 'dark';
+      	ips.utils.cookie.set( 'fluent_dark', 1, true );
+	};
+
+	const disableDark = () => {
+  		delete document.querySelector('html').dataset.theme;
+      	ips.utils.cookie.unset( 'fluent_dark' );
+	};
+  
+	const shepeSquare = () => {
+  		document.body.classList.remove('aXenRound');
+  		document.body.classList.add('aXenSquare');
+      	localStorage.setItem(cookieName.shape, 'square');
+	};
+  
+	const shepeRound = () => {
+  		document.body.classList.remove('aXenSquare');
+  		document.body.classList.add('aXenRound');
+      	localStorage.setItem(cookieName.shape, 'round');
+	};
+  
+	const enablePicture = () => {
+  		document.body.classList.add('aXenPicture');
+      	localStorage.setItem(cookieName.picture, 1);
+	};
+  
+	const disablePicture = () => {
+  		document.body.classList.remove('aXenPicture');
+      	localStorage.setItem(cookieName.picture, 0);
+	};
+  
+  	
+  
+	/* ===== Controller ===== */
+	
+  		enableDark();
+	
+ 
+  	
+  
+	
+
+  	
+  		shepeRound();
+  	
+
+  	(localStorage.getItem(cookieName.shape) == 'square') ? shepeSquare() : shepeRound();
+  
+ 	
+
+  
+	/* ===== addEventListener ===== */
+	
+  
+  	
+  
+   	
+  
+  	
+  
+	/* ===== Go to top ===== */
+	
+  
+  	/* ===== Snow ===== */
+
+</script>
+</body></html>
